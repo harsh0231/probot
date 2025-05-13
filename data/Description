@@ -1,0 +1,971 @@
+Tables Content:
+
+crop_area_production_yield_seasonwise_year_and_district_in_bihar
+
+Content: District-wise and year-wise data of area, production, and yield of various crops in Bihar
+Time period: 2012 to 2023
+Measurements:
+Area: Hectares
+Production: Million Tonnes
+Yield: kg/hectare
+Source: Department of Agriculture
+
+
+land_holdings_in_bihar_for_agriculture
+
+Content: Holdings categorized as Marginal, small, semi-medium, medium, and large
+Time period: 2021
+Measurement: Percentage
+Source: Bihar Through Figures 2021, Directorate of Economics and Statistics Bihar, Patna
+
+
+expected_area_of_crop_irrigation_yearwise
+
+Content: The data provides the irrigation data for Kharif and Rabi seasons from 2015-16 to 2020-21. Kharif irrigation peaked in 2016-17 at 4641 hectare per cubic meter, while the lowest was in 2020-21 at 2648. Rabi irrigation showed fluctuations, with the lowest in 2017-18 (732) and a steady increase to 1458 in 2020-21. This data reflects variations in water availability and irrigation efficiency over the years.
+Time period: 2015-21
+Measurement: Hectare per Cusec
+Source: Water Resources Department, Government of Bihar
+
+
+area_of_crop_irrigation_yearwise_trend_Bihar
+
+Content: This dataset provides a yearly overview of the area under irrigation for various crops in Bihar, covering the years 2016-17 to 2020-21. It includes details on the crop name, year, area under irrigation (in hectares), and the source of the data. This information allows for an analysis of irrigation trends and patterns across different crops in Bihar over the specified period.
+Time period: 2016-17 to 2020-21
+Measurement: Hectares
+Source: Directorate of Economics and Statistics, Patna, Bihar
+
+
+cattle_milk_production_district_wise_bihar
+
+Content: Milk production by cattle type (bovine, buffalo, crossbreed, indigenous)
+Time period: 2017-18
+Measurement: Million tonnes
+Source: Integrated Sample Survey Reports, Department of Animal Husbandry & Dairying, Government of Bihar
+
+
+veterinary_infrastructure_year_wise
+
+Content: The data represents veterinary infrastructure under the Agriculture and Allied Sectors for various years (2008-09 to 2015-16). It includes details on the number of Veterinary Hospitals, Veterinary Dispensaries, and Veterinary Institutes, along with their infrastructure values (in numbers). The source of the data is the Ministry of Statistics and Programme Implementation, Government of India. Notable observations include consistent numbers for Veterinary Hospitals (39) and increases in Veterinary Dispensaries and Institutes in later years.
+Time period: 2008-16
+Measurement: Numbers
+Source: Ministry of Statistics and Programme Implementation, GOI
+
+
+Artificial_insemination_performed_on_cattle_distrcit_wise
+
+Content: This dataset provides insights into artificial insemination practices in Bihar for the year 2015-16. It presents a district-wise breakdown of the number of artificial inseminations performed on cattle, using the district_name, cattle_item, cattle_value, and cattle_unit columns. This information allows for an analysis of the prevalence and distribution of artificial insemination procedures across different districts in Bihar.
+Measurement: Thousands
+Source: Directorate of Animal Husbandry, Animal & Fisheries, Resources Department, Govt. of Bihar
+
+
+cattle_breed_population_district_wise_in_bihar
+
+Content: The dataset contains  Population of various cattle breeds district wise in bihar includes sector name,focus area,sector id,cattle_item that is population in number and cattle_name, which covers categories like Bachaur, Hairana, Holstein Friesian exotic and crossbred,jersery and exotic crossbred, murrah, sahiwal and surti. The cattle_unit is measured in "Number" is consistently sourced from the Livestock Population Breedwise, Based on Breed Survey, 2013, Department of Animal Husbandry, Dairying and Fisheries, Govt. of India.
+
+
+population_of_cattle_breed_gender_wise_in_bihar_yearly_trend
+
+Content: Population of Exotic/Crossbred Cows, Indigenous Cows, and Buffaloes by gender and age groups
+Time period: 2003 to 2019
+Measurement: Number
+Source: Directorate of Animal Husbandry, Animal & Fisheries, Resources Department, Govt. of Bihar
+
+
+Artificial_insemination_centres_district_wise
+
+Content: This dataset provides a snapshot of artificial insemination centers in Bihar for the year 2015-16, focusing on the number of government-run centers across various districts. It details the district name and the corresponding count of artificial insemination centers operating under government agencies. This information allows for an assessment of the distribution and availability of artificial insemination services provided by government entities throughout Bihar's districts for the specified period.
+Time period: 2015-16
+Measurement: Number
+Source: Directorate of Animal Husbandry, Animal & Fisheries, Resources Department, Govt. of Bihar
+
+
+land_utilization_yearwise
+
+Content: Detailed data on land utilization for various districts
+Time period: 2022-23
+Includes: Various land categories and their measurements
+
+
+district_wise_Irrigation_area
+
+Content: This dataset provides district-wise data on groundwater extraction levels and the percentage of farmers using drip or sprinkler irrigation across various states in India. It helps assess water resource management and sustainable irrigation practices..
+Time period: 2011-23
+Measurement: Hectares
+
+
+Wheat_Procurement_districtwise_yearwise_in_Bihar
+
+Content: Wheat procurement data including farmer demographics and quantities
+Source: NIC
+
+
+Paddy_Procurement_districtwise_yearwise_in_Bihar
+
+Content: The "Paddy_Procurement_districtwise_yearwise_in_Bihar" dataset covers categories including total farmers, total number of male farmers, total number of female farmers, number of general category farmers, number of disciplined caste category farmers, number of backward class category farmers, number of minority category farmers, number of extremely backward class category farmers, number of disciplined tribe category farmers, number of others category farmers, total quantity of paddy in metric tonnes, total amount paid in rupees, and the source is NIC.
+Source: NIC
+
+
+Bihar_District_block_wise_School_infrastructure_and_facilities
+
+Content:The  dataset provides detailed information on the educational landscape across districts and blocks, focusing on school infrastructure and facilities. It includes data on the number of schools under various categories, such as the Department of Education, private unaided, and specialized institutions like Buniyadi and Sanskrit schools. The dataset also covers infrastructure aspects, including urban and rural schools, building types, classrooms, and amenities like drinking water, toilets, electricity, playgrounds, and health checkups, along with library facilities, solar panels, and kitchen gardens.
+
+
+district_wise_school_type
+
+Content: The dataset contains information about school types across various districts and blocks in Bihar for the academic year 2023-24. The data provides details on the number of co-educational schools, girls' schools, and boys' schools in each block within different districts.
+Time period: 2023-24
+
+
+district_wise_school_location
+
+Content: The dataset presents a comprehensive district and block-wise profile of schools across Bihar for the academic year 2023-24. It includes the total count of schools in each block, further classified into urban, rural, and undefined categories. This data provides insights into the distribution of educational institutions across different administrative divisions of the state, highlighting the urban-rural divide in school availability
+Time period: 2023-24
+
+
+district_wise_school_recognition
+
+Content: The dataset provides a detailed district and block-wise profile of schools across Bihar for the academic year 2023-24. It covers various aspects of school infrastructure, including the number of schools with pre-primary sections, primary recognition, upper primary, secondary, and higher secondary facilities. Additionally, it highlights the count of schools offering transitions from primary to upper primary, upper primary to secondary, and secondary to higher secondary education.
+Time period: 2023-24
+
+
+district_wise_school_special_facilities
+
+Content: The dataset presents an in-depth district and block-wise overview of school facilities in Bihar for the academic year 2023-24, focusing on inclusivity, infrastructure, and residential status. It highlights the presence of children with special needs (CWSN) in schools, differentiating between institutions that cater to these students and those that do not. Additionally, the dataset identifies the number of shift schools, which operate in multiple sessions, compared to single-shift schools.
+Time period: 2023-24
+
+
+district_wise_school_streams
+
+Content: The dataset provides a district-wise and block-wise breakdown of schools in Bihar for the academic year 2023-24, categorized by the availability of different educational streams. It includes information on the presence of Arts, Science, Commerce, Vocational, and Other streams in schools across multiple districts and blocks.
+Time period: 2023-24
+
+
+district_wise_type_of_school_management_2023_24
+
+Content: The "Education" dataset for the year provides information on various educational institutions, including Private Unaided Recognized Schools, Affiliated Schools/Colleges, Unrecognized Schools, Constituent Colleges, Buniyadi Schools, and Sanskrit Schools (both aided and unaided). It also covers different types of Madrasas, Project Girls' High Schools, Rajkiya High Schools, as well as schools affiliated with the Social Welfare and Tribal Welfare Departments, Sainik Schools, and Railway Schools. The data is organized by state, district, and block, and managed by the Department of Education, offering a detailed view of the educational landscape across different regions.
+Time period: 2023-24
+Source: Department of Education
+
+
+district_wise_school_category
+
+Content: The dataset offers an extensive overview of school profiles across all districts and blocks in Bihar for the academic year 2023-24, categorized by the types of schools based on the classes they provide. The data captures the number of schools across several key categories: Primary with Upper Primary (Classes 1 to 8), Primary, Upper Primary, and Secondary (Classes 1 to 10), Primary Only (Classes 1 to 5), Primary with Upper Primary and Higher Secondary (Classes 1 to 12), Secondary with Higher Secondary (Classes 9 to 12), Higher Secondary Only/Junior Colleges (Classes 11 to 12), Upper Primary, Secondary, and Higher Secondary (Classes 6 to 12), Upper Primary Only (Classes 6 to 8), Upper Primary and Secondary (Classes 6 to 10), and Secondary Only (Classes 9 to 10).
+Time period: 2023-24
+
+
+jeevika_groups_and_linkage_amount_yearwise
+
+Content: The dataset contains block-wise information on the number of Jeevika groups formed and the number of beneficiaries across various districts in Bihar from 2017 to 2023. The data focuses on rural development and women's empowerment through the formation of self-help groups. It includes details such as the year, district name, block name, number of groups formed, number of beneficiaries, and other related financial metrics. The dataset highlights the significant contributions of the Jeevika program in promoting economic empowerment among women in rural Bihar.
+Time period: 2017-18 to 2022-23
+
+
+mukhyamantri_kanya_utthaan_snatak_beneficiaries
+
+Content: The dataset titled "Mukhyamantri_Kanya_Utthaan_Yojana_Snatak" contains block-wise information on the number of female beneficiaries and the total amount disbursed under this scheme across various districts in Bihar. The data covers the education sector and focuses on promoting higher education for women by providing financial support to those who have completed their graduation. It includes details such as the state, focus area, gender, year, district name, block name, number of beneficiaries, and total amount disbursed for each block.
+Focus: Higher education for women
+
+
+Block_wise_enrollment_of_students_gender_class_wise_year_wise
+
+Content: The "block wise enrollment of students gender class yearwise" includes block-wise student enrollment data covering classes like PP3, PP2, PP1, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12. The data is also divided gender-wise into girls, boys and trans and yearwise for 2022-23 and 2023-24. The data has been sourced from the UDISE portal.
+
+
+crop_price_yearwise_varietywise_in_Bihar_per_kg
+
+Content: The "Crop_Price_Variety_Type_in_Bihar" dataset covers categories including crop name, variety type, crop type, crop price, price unit, and the source is Ministry of Agriculture & Farmers Welfare
+Source: Ministry of Agriculture & Farmers Welfare
+
+
+Payment_students_for_basic_facilities_blockwise_in_Bihar
+
+Content: The "Focus_Area_Scheme_Beneficiaries_in_Bihar" dataset covers categories including focus area, district name, block name, type of scheme, gender, number of beneficiaries, category type, age group, total amount in rupees, and the source.
+
+
+
+
+number_of_medhavriti_yojna_beneficiaries
+
+Content: DThe dataset titled "Number of Medhavriti Yojna Beneficiaries" provides district-wise information on the beneficiaries of the Medhavriti Yojna scheme in Bihar, categorized by social groups. The data is from the education sector and focuses on the distribution of scholarships to students from Scheduled Caste (SC) and Scheduled Tribe (ST) communities. It includes details such as the district name, the number of SC beneficiaries, and the number of ST beneficiaries for each district. This dataset helps to assess the coverage and impact of the Medhavriti Yojna in supporting students from marginalized communities in Bihar.
+
+
+mukhyamantri_kanya_utthaan_intermediate_beneficiaries
+
+Content: The dataset titled "Mukhyamantri_Kanya_Utthaan_Yojana_Intermediate" provides district-wise data on the number of girl beneficiaries and the total amount disbursed under the scheme in Bihar. It includes information on 16 districts, detailing the financial support provided to girls who passed their intermediate exams. The dataset covers the scheme’s focus on promoting female education by offering monetary aid, with columns for sector name, focus area, year, district name, number of beneficiaries, and total amount.
+
+
+water_level_in_river_stations_in_Bihar_agriculture
+
+Content: Water levels at various river stations
+Time: As of August 12, 2024
+Measurement: Meters
+Source: Water Resources Department, Government of Bihar
+
+
+district_wise_government_schools_2022_23_bihar
+
+Content: Number of elementary, secondary, and higher secondary schools
+Time period: 2022-23
+
+
+total_students_teachers_districtwise_non_genderwise
+
+Content: Total number of students by class and total count of teachers districtwise for the period of 2023-2024.
+
+
+students_block_wise_genderwise_class_wise_yearwise
+
+Content: Student enrollment data by block, gender, class, and year
+Time period: 2022-23 and 2023-24
+Source: UDISE portal
+
+
+balak_balika_protsahan_yojan_number_of_beneficiaries
+
+Content: District-wise beneficiaries of the scheme for Payment to Students passing 10th with 1st Division, categorized by gender and social groups
+Make sure give all the relevant tables according to question.
+
+
+age_wise_houses_sanctioned_under_pmay_scheme	
+
+Content : This dataset provides a comprehensive overview of house sanctions under the Pradhan Mantri Awas Yojana (PMAY) across all districts of Bihar for the financial year 2023-2024. It focuses on the number of houses sanctioned for the age group 0-10 in each district, reflecting the government's efforts to provide housing support in rural areas. The data includes details such as the sector (Rural Development), district name, age group, and the number of houses sanctioned. The aim of this dataset is to track housing development under PMAY, with a specific focus on age-wise house sanctioning to ensure equitable distribution of housing resources across Bihar.
+
+
+year_wise_houses_sanctioned_under_pmay_scheme	
+
+
+Content : This dataset provides a comprehensive overview of the Pradhan Mantri Awas Yojana (PMAY) scheme, tracking the year-wise house sanctions across all districts of Bihar from 2016 to 2024. It reflects the government's efforts to improve housing conditions in rural areas under the Rural Development sector. The data highlights the number of houses sanctioned each year in all the  districtsof bihar. This dataset helps monitor the progress of the scheme in providing housing to beneficiaries under the PMAY initiative over time, aiding in understanding the distribution of resources across the state.
+
+
+district_wise_bharat_net_scheme
+
+Content: BharatNet is a flagship initiative of the Government of India aimed at providing high-speed broadband connectivity to rural and remote areas of the country. It is one of the largest rural broadband projects in the world, focusing on bridging the digital divide between urban and rural regions.
+
+District_wise_Fertilizer_Stock_Supply
+
+Content:Direct Benefit Transfer (DBT) is an initiative by the Government of India to streamline the distribution of subsidies and welfare benefits directly to the beneficiaries, cutting down intermediaries and ensuring transparency. It was launched in 2013 to reduce leakages, delays, and corruption in the system.
+
+District_wise_Direct_Benefit_Transfer
+
+Content: Direct Benefit Transfer (DBT) is an initiative by the Government of India to streamline the distribution of subsidies and welfare benefits directly to the beneficiaries, cutting down intermediaries and ensuring transparency. It was launched in 2013 to reduce leakages, delays, and corruption in the system.
+
+District_wise_Digital_India_Land_Records_Modernization_Programme
+Content: A program aimed at digitizing land records across India to improve transparency, reduce disputes, and make land transactions more efficient and accessible to citizens.
+
+district_wise_craftsmen_training_scheme_CTS_ITI
+
+content: A skill development initiative that offers vocational training through Industrial Training Institutes (ITIs), helping young people acquire skills for various trades and improving their employment prospects.
+
+district_wise_common_services_centre
+
+content: A digital service delivery initiative that provides a wide range of e-governance services, including banking, healthcare, and education, to rural and remote areas through a network of common service centers.
+
+Always make sure table names should be correct and exact as given above .
+
+For earning , price , amount realted question always include this table : "crop_price_yearwise_varietywise_in_Bihar_per_kg"
+
+
+house_completion_year_wise_pmay_scheme
+
+Content:The house_completion_year_wise_pmay_scheme provides an overview of housing construction under PMAY (Pradhan Mantri Awas Yojana ) scheme across various administrative levels, such as state, district, block, and panchayat. The key columns include the state name, district name, block name, and panchayat name, along with the scheme name and the focus area within that scheme. This table also records the year in which the completion data is reported and tracks the number of houses completed during that period. Essentially, this table offers a snapshot of housing construction progress across multiple regions and schemes.
+
+house_progress_in_pmay_scheme:
+
+Content:The house_progress_in_pmay_scheme focuses specifically on the  housing construction progress and includes more granular details about the different stages of housing completion under PMAY (Pradhan Mantri Awas Yojana ) Scheme. It tracks key metrics such as the number of sanctions based on geo-tagging, sanctions with verified accounts, and the number of houses that have received different installment payments (first, second, third, and fourth). Additionally, it includes the number of houses completed with verified details as well as the overall number of completed houses. This table is essential for monitoring the step-by-step progress of housing construction and financial disbursement in the current year.
+
+gap_in_entry_target_pmay_scheme:
+
+content: This  gap_in_entry_target_pmay_scheme, under pmay(Pradhan Mantri Awas Yojana ) scheme  records status of targets set for various blocks within a district for a given year. It includes the total number of targets assigned and the number of targets that have yet to be entered. This data helps track the progress of target entries and highlights areas where further action may be needed to meet set goals under the scheme
+
+Water_resource_in_bihar
+
+Content: Contains data on irrigation schemes across districts of Bihar, detailing village, block, and panchayat names. Includes energy types, number of poles, motor pump power, distribution channel dimensions (length, width, height), pipe diameter, pipe length, command area, scheme cost, water sources, dam dimensions, nalkup defects, and micro-irrigation data. Identification uses district, block, panchayat, and village codes.
+
+JJHM_nursery_data
+
+Content: Provides details of nurseries in Bihar, categorized by district, block, and panchayat. Includes nursery ID, names of district, block, and panchayat, whether the area is urban, nursery name, total area covered, and the total number of trees in each nursery.
+
+Bihar_police_station
+
+Content: Contains administrative and policing data for Bihar, including district codes, district names, police station names, circle names, and subdivisions. It also provides range details, including range ID and range name for each entry.
+
+Bihar_jp_senani_scheme_District_wise
+
+Content: Provides district-wise data on monthly pensioners under the JP Senani scheme where  Monthly honor amount to persons imprisoned during J P Movement, focusing on gender, Aadhaar verification status, age, matching score,  and pension amounts allocated to each individual.
+
+Bihar_district_wise_water_hydrant
+
+Content: Contains data on fire hydrants in Bihar, including source, location (latitude and longitude), fire type classification, hydrant location, district name, district code, and range name.
+
+Bihar_district_wise_fire_vehicle
+
+Content: This dataset provides a comprehensive overview of fire vehicles deployed across various districts in Bihar. It includes details such as the type of fire vehicle (type_of_fire_vehicle), the quantity of each type (number_of_fire_vehicle), district-level information (district_name, dist_Code, latitude, longitude), the precise location of the vehicle (location_of_vehicle), and the corresponding fire station range (range_name). This information allows for an assessment of the distribution and availability of firefighting resources across different regions of Bihar.
+
+
+JJHM_Scheme_structure_and_amount_allotment
+
+Content: Plantation of Schemes under MGREGA, Waterbodies, Solar Panel Schemes, Rainwater Harvesting, water harvesting etc. 14 department are executing different schemes with Rural Development being Nodal Department. It includes fields like focus area (project type), state_name, year, and department_name. It describes the type_of_structure and its dimensions, along with precise location details such as district_code, block_name, panchayat_name, and village_name. The area_type distinguishes between rural and urban areas. Financials include estimated_amount and final_amount to track project costs. The scheme_name records the funding scheme for each project. This table provides a clear overview of project scope, location, and funding.
+
+Civil_Seva_Protsahan_Yojna_for_bc_ebc_students
+
+content:This table, is designed to store information about candidates One Time Payment to SC ST Students completing UPSC PT/BPSC PT in Bihar state. It includes data such as the scheme's name, year, category, gender, and district. The table tracks the number of candidates who have registered, those who passed the UPSC or BPSC exams, and those who did not appear for these exams. Additionally, it records the number of candidates selected for a BPSC-related amount, giving a detailed overview of the exam results under different categories and schemes. All values are stored as text to ensure flexible data handling.
+
+bihar_state_disability_pension_district_wise_year_wise
+
+Content:
+The dataset provides district-wise and year-wise data on the Bihar State Disability Pension scheme which comes under the e-labharthi scheme. It includes details such as the state name, focus area, year, scheme name, district, block, panchayat, and village names. The data covers benefit transfer modes, amounts disbursed, and the number of beneficiaries/transactions. This dataset appears to track the distribution of disability pensions across various regions in Bihar over multiple years, providing insights into the coverage and scale of the scheme at different administrative levels, including district, block, and village.
+
+crime_against_sc_st_yearwise
+
+content : This dataset provides  information on cases registered under the "Prevention of Atrocities" in Bihar over several fiscal years (2008-2012) Which Grant of Relief to People affected (Victim, Witness, Dependent) under SC ST Atrocities It tracks the number of cases, criminals involved, and victims by gender and caste (SC, ST). The data is broken down by district, highlighting the count of victims from marginalized communities affected by such crimes across different years.
+
+district_wise_asha_health_workers
+
+content: The dataset contains financial allocation information under the "Ashwin" scheme for the year 2024-25 in Bihar.
+Asha Performance and Incentive Portal. Details of monthly institutional and community activities related to Health of rural/urban masses being performed by ASHA and ASHA Facilitator. Monthly Remuneration based on that. It lists details of female beneficiaries, primarily from backward categories (OBC, EBC, SC, etc.), across various districts and panchayats.
+
+beneficiary_of_Aapda_Sampoorti
+
+content : This dataset provides information on beneficiaries of the 'Aapda Sampoorti' scheme in Bihar, tracking their distribution across different administrative levels and demographic groups. It allows for analysis of the scheme's reach and impact across various geographical areas and beneficiary categories.
+
+year_wise_district_wise_ejanani_beneficiaries
+
+content: The dataset represents Component of Mukhyamnatri Kanya Utthan Yojna for the period 2021 to 2023. Payment of Mother on Institutional Delivery and Complete Immunization. e-Janani beneficiaries from Bihar yearwise, detailing various districts, blocks, and panchayats. It includes information on gender (all Female), caste categories (General, BC, EBC, SC, ST, OBC), and the total amount disbursed to each beneficiary.
+
+Payment_given_to_farmers_for_crops_loss_blockwise_yearwise	
+
+content:The "Payment_given_to_farmers_for_crops_loss_blockwise_yearwise" dataset covers categories including district name, block name, focus area, scheme name underBRFSY (Bihar Rajya Fasal Sahayata Yojna), year, crop type, total farmers, num ber of male farmers, number of female farmers, number of backward class category farmers, number of general category farmers, number of extremely backward class category farmers, number of disciplined caste category farmers, number of disciplined tribe category farmers, total loan paid in rupees, and the source NIC.
+Only include the table names in the output, separated by commas. Do not include the question or any other text.
+
+
+Cases_of_Land_dispute_in_bihar
+Content : This dataset provides an overview of land dispute cases registered in police stations across Bihar for the year 2022-23. It includes information on the types of disputes and the corresponding number of cases registered, allowing for an analysis of the prevalence and nature of land-related conflicts in the state.
+
+
+Civil_Seva_Protsahan_Yojna_for_female_students : 
+
+Content:
+
+This table, is designed to store information about candidates Payment to Girls compete UPSC PT/BPSC PT in Bihar state. It includes data such as the scheme's name, year, category, gender, and district. The table tracks the number of candidates who have registered, those who passed the UPSC or BPSC exams, and those who did not appear for these exams. Additionally, it records the number of candidates selected for a BPSC-related amount, giving a detailed overview of the exam results under different categories and schemes. All values are stored as text to ensure flexible data handling.
+
+
+payment_to_mothers_under_mkuy_scheme : 
+
+content:
+The MKUY (Mukhyamantri Kanya Utthan Yojana) is a flagship welfare scheme launched by the government of Bihar, India, aimed at improving the socio-economic status of girls in the state. The initiative primarily focuses on enhancing the education, health, and empowerment of girls from birth to adulthood, ensuring that they have access to necessary resources and support throughout their lives.
+The Mukhyamantri Kanya Utthan Yojana is designed to address issues such as female literacy, early marriage, and gender inequality, promoting the holistic development and empowerment of girls in Bihar.
+
+Tri_cycle_distribution_district_wise:
+Content: The dataset contains the district-wise distribution of tri-cycles in Bihar under the "Tri-Cycle Distribution" scheme. It includes important details such as the focus area of the scheme, which is aimed at enhancing mobility for physically handicapped individuals. The state name is Bihar, and the dataset categorizes beneficiaries by their category type (such as SC, ST, OBC), gender, and their specific physically handicapped category, which identifies the nature of their disability (e.g., Orthopedically Handicapped, Visually Impaired). Additionally, the nationality of the recipients, predominantly "Indian," is recorded, along with the district name where the distribution is taking place. This dataset provides a comprehensive view of how tri-cycles are being allocated across various districts to support individuals with physical disabilities, contributing to their independence and mobility within the state.
+
+
+State_level_banker_Committee_loan_applied
+
+content:
+The dataset State_level_banker_Committee_loan_applied in Bihar provides comprehensive details regarding various government-backed financial assistance programs. It includes critical information such as  sectors like agriculture, education, or infrastructure, and identifies the state name as Bihar. The department name indicates the governmental body responsible for each scheme, while the scheme name specifies the exact program under which loans are applied, such as "PM Awas Yojana" or "Kisan Credit Card Scheme." Additionally, the data includes geographical details like the district name, block name, and location type (rural or urban), highlighting where the loan applications originate. The year of application is tracked alongside the applied loan amount in rupees, which records the financial requests made by individuals or organizations. This dataset is essential for analyzing the regional distribution of loans, the impact of various schemes, and financial trends across different regions of Bihar.
+
+
+state_wise_district_wise_child_birth_issues
+
+Content : This dataset contains a table having health and nutrition statistics for children under five years of age, across various districts in India. It includes information on stunted growth, anaemia, underweight, overweight, and wasting in children. Additionally, it provides data on maternal healthcare, such as the percentage of mothers receiving a minimum of four antenatal care visits and the percentage of institutional births in public facilities. The table represents data from various districts from various states of India.
+
+district_wise_households_amenities
+
+Content: This dataset includes information on various districts across several states in India. Each entry lists the district's name, LGD (Local Government Directory) code, state name, state LGD code, percentage of households with tap water connections, and percentage of households using clean fuel for cooking. It highlights disparities in access to basic amenities such as clean water and clean cooking fuel across different regions within these states, reflecting varying levels of development and infrastructure provision.
+
+district_wise_fca_fpo_pacs
+
+Content : The provided dataset contains district-level data from various states in India, detailing two key indicators: the number of open defecation-free plus (ODF+) villages and villages with Farmer Producer Organizations (FPO), Farmer Cooperative Societies (FCA), and Primary Agricultural Credit Societies (PACS). The data shows varying levels of progress in achieving ODF+ status, with some districts having significant numbers of ODF+ villages, while others have none. Additionally, the presence of FPOs, FCAs, and PACS varies, indicating differing levels of agricultural organization and support across districts.
+
+district_wise_irrigation
+
+Content : The data provided contains district-level statistics from various regions in India, covering the percentage of groundwater extraction (stage of groundwater extraction) and the proportion of farmers using drip or sprinkler irrigation methods. Districts are listed along with their codes and the corresponding state name. The levels of groundwater extraction and irrigation adoption vary widely across districts, with some regions reporting high groundwater usage and significant adoption of modern irrigation techniques, while others report much lower levels.
+
+district_wise_amenities
+
+Content : The dataset provides district-level information across several Indian states, listing details about access to electricity, improved drinking water sources, and improved sanitation facilities. For each district, the data includes specific percentages of the population having access to these amenities. Data shows variations in the availability and quality of infrastructure services. The dataset offers insights into regional disparities in basic utilities across these areas.
+
+district_wise_student_dropout
+
+Content : The dataset displays district-level dropout rates for boys and girls at different education levels: primary, upper primary, and secondary, across various Indian states. Dropout rates vary significantly between regions, with some areas showing low rates at primary levels but higher dropout rates in secondary education, particularly among girls and boys in districts like Krishna (Andhra Pradesh) and Pakke Kessang (Arunachal Pradesh).
+
+district_wise_subject_proficiency
+
+Content : The data provides an overview of district-wise educational proficiency levels across multiple Indian states and districts. It highlights performance in subjects such as language, mathematics, and environmental studies for students in Classes 3, 5, and 8. The data shows variations in proficiency levels across different districts and grades.
+
+district_wise_healthcare
+
+Content : The data provides health-related statistics across various districts and states in India, focusing on metrics such as the number of functional sub-centres, primary health centres, Ayushman Bharat cards created, and authorized hospital admissions per thousand people. The dataset highlights variations in healthcare infrastructure and service utilization, such as the availability of health centres and the issuance of health insurance cards, across different regions.
+
+district_wise_sown_area
+
+Content : The data provides information on various districts across Indian states, including their net sown area as a percentage of total geographical area and the percentage of that area insured. The net sown area varies significantly across districts, with some areas showing high agricultural activity (e.g., Bhojpur, Bihar at 119.21%) and others with low values. Similarly, the percentage of area insured also fluctuates, with some districts showing high insurance coverage (e.g., Rajnandgaon, Chhattisgarh at 56.21%) while others have very low or no coverage.
+
+year_wise_district_wise_block_wise_cold_wave_details
+
+Content:This dataset provides cold wave response data for all blocks of Bihar of period 2022-2023, focusing on actions taken during the cold wave season. It includes details like the number of bonfire places set up, the amount of wood required, the number of affected people, and the total amount spent. Additionally, it tracks the establishment of night shelters, the total number of people using them, and the distribution of blankets.  This data helps assess the cold wave response across the state's blocks.
+
+year_wise_district_wise_covid_payment
+
+Content: This dataset provides an overview of the COVID-19 relief payments distributed across all districts of Bihar for different years. It records the number of people who received financial assistance in two categories: ₹4 lakh and ₹50,000. The data highlights the state's efforts to provide compensation to affected individuals in various districts, ensuring financial aid reached those in need during the pandemic. The table reflects the support provided through this compensation program to mitigate the impact of COVID-19.
+
+year_wise_district_wise_flood_affected_data
+
+Content:This dataset provides a comprehensive account of the damages and losses caused by floods  for the period 2022-2025 in Bihar. It covers a wide range of categories including the number of affected individuals and families, migration, impact on agricultural and non-agricultural land, crop damage, and property losses. The report also highlights the extent of damage to houses, animal shelters, and public property, along with relief efforts such as animal care, establishment of relief centers, and distribution of food and dry ration packets. It serves as a valuable resource to assess flood impacts and the relief measures implemented over time.
+
+block_wise_panchayat_wise_damaged_crops
+
+Content: This dataset contains data from Bihar's agricultural sector, focusing on crop damage across various blocks and panchayats. Each entry details block and panchayat codes and names, revenue thana names, and RT numbers, along with revenue village names. The data tracks wheat crop damage across villages like Ranipur, Bambhai, and Usari, with damaged area in acres ranging from small plots of 0.15 acres to larger fields of 7.5 acres. The information is crucial for understanding the extent of crop damage in specific regions, helping authorities plan recovery efforts and compensation for affected farmers.
+
+year_wise_block_wise_weather_data
+
+Content:
+
+This dataset provides weather data for various districts and their respective blocks of Bihar, covering a period from May 2023 to September 2024. It includes key weather indicators for each district and their respective blocks, such as rainfall (in millimeters), maximum and minimum temperatures (°C), minimum and average relative humidity (%), and maximum wind speed (in meters per second). The focus area is "Mausam Kendra," offering a comprehensive view of weather patterns across Bihar over the specified months.  
+
+
+laxmi_bai_social_security_pension_district_wise_year_wise
+
+Content:
+The dataset provides district-wise and year-wise data on the Laxmi Bai Social Security Pension scheme in Bihar which comes under the e-labharthi scheme. It includes details such as the state name, focus area, year, scheme name, district, block, panchayat, and village. The dataset records information about the mode of benefit transfer, the amounts disbursed, and the number of beneficiary transactions. This data helps to track the distribution of social security pensions across various administrative levels in Bihar over multiple years, providing insights into the reach and financial impact of the scheme on different regions.
+
+
+indira_gandhi_disability_pension_district_wise_year_wise
+
+Content:
+The dataset provides district-wise and year-wise data on the Indira Gandhi Disability Pension scheme in Bihar which comes under the e-labharthi scheme. It includes details such as the state name, focus area, year, scheme name, district, block, panchayat, and village. The dataset records information about the mode of benefit transfer, the amounts disbursed, and the number of beneficiary transactions. This data helps to track the distribution of social security pensions across various administrative levels in Bihar over multiple years, providing insights into the reach and financial impact of the scheme on different regions.
+
+
+indira_gandhi_widow_pension_district_wise_year_wise
+
+Content:
+The dataset provides district-wise and year-wise data on the Indira Gandhi Widow Pension scheme in Bihar which comes under the e-labharthi scheme. It includes details such as the state name, focus area, year, scheme name, district, block, panchayat, and village. The dataset records information about the mode of benefit transfer, the amounts disbursed, and the number of beneficiary transactions. This data helps to track the distribution of social security pensions across various administrative levels in Bihar over multiple years, providing insights into the reach and financial impact of the scheme on different regions.
+
+
+application_details_service_wise
+
+content : The dataset represents various public services in Bihar under the "Service Plus" platform, categorized by service types such as BC/EBC(NCL), BIRTH REGISTRATION, CASTE certificates, CHARACTER certificates, and more. Each service has several metrics like total received applications, total approved applications (within and after timeline), total rejected applications (within and after timeline), total pending, and total expired. Notable services like CASTE and RESIDENCE certificates have millions of applications, with a substantial number being approved or rejected.
+
+
+number_of_services_year_wise_district_wise_block_wise
+
+content : The dataset showcases the number of services provided under the "Service Plus" platform in various blocks of districts in Bihar during the 2019-25 period. Each row represents a specific district and block, detailing the number of services provided in that block. The districts include Araria, Arwal, Aurangabad, Banka, and Begusarai, among others. The number of services per block varies, with some blocks having as many as 12 services while others have fewer. This data highlights service delivery at the block level across different regions in Bihar.
+
+
+service_application_details_year_wise_district_wise_block_wise
+
+content : The dataset shows services provided under the "Service Plus" platform for various blocks in districts of Bihar during 2019-25. It contains details on the total applications received, approved, and rejected, both within and beyond the timeline, along with the total number of pending and expired applications. Districts like Araria, Arwal, Aurangabad, and Banka are represented, with notable variations in service numbers. Blocks such as Aurangabad have the highest service counts, while some blocks like Jokihat have significantly fewer applications processed. The data also includes information about rejections and approvals.
+
+flood_preparedness_scorecard_block_wise_district_wise
+
+content : This dataset provides the flood preparedness scorecard for various districts and blocks in Bihar across different years. It includes metrics such as the number of panchayats, flood-prone areas, rain gauge machines, boats, life jackets, rescue teams, and other critical resources for flood response. The data evaluates the availability, functionality, and readiness of infrastructure and equipment, along with details on trained personnel, safe shelters, and community kitchens, offering a comprehensive overview of the region's flood preparedness over time.
+
+
+flood_preparedness_scorecard_district_wise
+
+content : This dataset provides a district-wise assessment of flood preparedness in Bihar across different years. It includes metrics such as the availability and condition of government-supplied inflatable lighting systems, GPS sets, satellite phones, and polythene sheets. Additionally, it tracks the number of dry ration packaging sites, the repair status of rescue equipment, and the number of awareness campaigns conducted. The data also covers household verification for Aadhaar seeding, giving a detailed overview of each district's flood response readiness and resource allocation.
+
+hostel_grant_scheme_ec_ebc_beneficiary_details_district_wise
+
+content : This dataset provides district-wise details of the Hostel Grant Scheme (EC/EBC) in Bihar for different years. It includes data on the number of beneficiaries and the total amount approved from the state (in rupees) for each district. The information is organized district-wise, showing how the scheme's benefits are distributed across different districts, supporting students from Economically Weaker Sections and Extremely Backward Classes.
+
+
+hostel_grant_scheme_ec_ebc_gender_wise_details_block_wise
+
+content : This dataset details the Hostel Grant Scheme (BC/EBC) for different districts and blocks in Bihar. It includes information on hostel names, number of male and female students, and the number of students belonging to Backward Classes (BC) and Extremely Backward Classes (EBC). The data is organized district-wise and block-wise, showing how the hostel grant scheme is serving students from various categories in different parts of Bihar.
+
+
+training_programme_details
+content : The dataset contains details of training programs, including columns for the program name, start and end dates, number of trainees, trainee group type, and training days. It specifies if the training is residential or non-residential, along with the venue, course coordinator, and associated department. The data spans various programs with details relevant to training logistics and administration, including the year of training. This structured dataset could be useful for analyzing program participation, and coordination for departmental training activities across different periods i.e. - 2004-24.
+
+elabharthi_pension_beneficiaries_category_wise
+
+content : This dataset represents pension beneficiaries across various categories in the state of Bihar under the "e-Labharthi” pensions program. It lists the number of beneficiaries and the corresponding amounts disbursed to categories such as BC, EBC, General, Minority, SC, ST, etc.
+
+elabharthi_beneficiaries_scheme_wise
+
+content : This dataset outlines various pension schemes under Bihar's “e-Labharthi” pensions program, with details on total beneficiaries and amounts disbursed. Key schemes include Mukhyamantri Vridhjan Pension Yojna (MVPY), Disabled Pension and Old Age Pensions.
+
+har_ghar_nal_ka_jal_district_wise_block_wise_year_wise
+
+Content: This dataset contains detailed information on the Har Ghar Nal Ka Jal Yojana in Bihar from 2016 to 2023. It provides data on the annual administrative sanction amounts allocated for water tank installations per ward, organized by panchayat and village name. This information supports tracking the scheme’s implementation and budget allocation across various regions in the state.
+
+nali_gali_pakkikaran_yojana_district_wise_block_wise_year_wise
+Content: This dataset provides information on the Nali Gali Pakkiraran Yojana in Bihar, covering the years 2015 to 2024. It includes data on the construction of drainage (nali) per ward, organized by district, block, and panchayat names. Additionally, it contains details on the administrative sanction amount and the responsible department. This information helps track the scheme’s progress and budget allocation across various regions.  
+
+tourists_type_wise_year_wise_month_wise
+Content: The data provides monthly tourism statistics for both domestic and foreign tourists visiting Bihar from 2015 to 2024. It includes the number of tourists recorded each month for each year, split by domestic and foreign categories. The figures indicate significant fluctuations, with notable increases in 2018, 2019, and 2023, and sharp declines in 2020 due to the pandemic. The foreign tourist numbers show a steady decrease after 2019, while domestic tourism has seen a gradual recovery, especially from 2021 onwards. The data also suggests a substantial rise in domestic tourism in 2023 and 2024.
+
+tourists_place_wise_district_wise_type_wise_year_wise
+Content: This data showcases annual tourism statistics from 2001 to 2014 across various destinations in Bihar, including Patna, Gaya, Bodh Gaya, and Nalanda, with a focus on both domestic and foreign tourist visits. Key events and locations like the Shrawani Mela in Bhagalpur, Sonepur Mela and Rajgir draw significant tourist numbers. The data indicates fluctuations over the years, with notable spikes in tourism at certain sites, reflecting the cultural and religious importance of these destinations. Additionally, places like Bodh Gaya see consistent international interest, underscoring their global significance.
+
+Hostel_grant_scheme_SCST_district_category_gender_wise
+Content: The dataset provides information related to a scholarship scheme for beneficiaries in Bihar. It details records across various attributes, including the financial year, which specifies the period for the data. The beneficiary_district_name consistently identifies the district of interest. The beneficiary_hostel_name describes the specific hostel where the recipients reside. The scheme_name denotes the "CM SC/ST Hostel Scholarship Scheme," highlighting the program designed to support beneficiaries. Additionally, the dataset includes demographic information, with beneficiary_gender listed as "Male" or "Female" and beneficiary_category indicating categories of the beneficiaries. This data is useful for understanding the allocation of scholarships and the demographic profile of the beneficiaries within the district for a particular year. 
+
+Aangan_Mandey_year_wise_district_wise_category_wise_details
+Content: This dataset provides details on the pay scale and working conditions for Aangan Mandey workers in Bihar across different districts for the year 2017-18, 2018-19 and 2019-20. It includes information on education level, designation , and social category , along with salary components like base salary, state allowance, deductions, and total payable amount. Additional columns track absent days, paid leave days, strike days, and total working days.
+
+Aangan_Mandey_yearwise_distrcitwise_number_of_workers
+Content: This dataset provides the details of  workforce distribution under Bihar’s Aangan Mandey scheme across all districts for the years 2017-18, 2018-19, and 2019-20. It provides counts of Sahaiyaka (helpers), Sevika (workers), and Lady Supervisors by district, education level , and social category. Each row represents a unique combination, allowing analysis of workforce demographics and inclusivity across districts and years within the Aangan Mandey scheme.
+
+enrollment_of_students_category_wise_year_wise
+Content: The dataset presents school enrollment data(social category) for Bihar in the 2022-24 academic year. It includes details for each school, such as district and block names, school name, UDISE code, and management type. Enrollment numbers are broken down by social category (General, SC, ST, OBC) and by gender for each class level, from Pre-Primary to Class 12. The data provides insights into student distribution across gender, class, and social categories.
+
+rainfall_in_bihar_yearwise_districtwise_month_wise
+Content: This dataset contains rainfall data for Bihar's districts from 2007-08 to 2024-25, detailing monthly normal and actual rainfall (in millimeters) for each district. It includes percentage deviations of actual rainfall from normal values for June to September and October to December periods, allowing for seasonal and annual comparisons. The data also captures overall June-to-September and October-to-December rainfall and percentage deviations. Key metrics help assess variations in rainfall distribution and trends across districts and years, supporting climate analysis and agricultural planning in the region.
+
+bihar_dams_operational_information
+Content: This dataset includes details about dams in Bihar, covering 27 entries. Each row represents a specific dam and provides information such as the dam's name, location (latitude and longitude), the year it is built on,associated river and the district it serves. Structural details include height above lowest foundation level,length of the dam,reservoir area and various storage capacities (gross, effective, and spillway). This information is useful for understanding water storage, flood control, and irrigation capacity across the state.
+
+bihar_irrigation_data
+Content: This file offers historical irrigation data for Bihar, with details on irrigation targets and achievements for the Kharif, Rabi, and Hot Weather seasons. Each row represents data for a financial year (e.g., 1987-88 to 2021-22) and includes target and achievement values across the seasons. Some columns, labeled as "sudkar,"  indicate adjustments or reductions to the targets. The dataset allows for the analysis of irrigation performance and seasonal water requirements over time.
+
+irrigation_schemes_bihar_2022_culturable_command_area_data
+Content: This dataset provides data on Bihar’s irrigation schemes as of 2022, listing 132 entries of various irrigation projects. Each row details the scheme's name, benefited districts, and areas impacted (in hectares). It includes fields for Culturable Command Area (CCA), Ultimate Irrigation Potential (UIP), and the irrigation potential that was created and utilized. The data is beneficial for evaluating irrigation scheme performance, potential utilization, and regional impact across Bihar.
+
+manrega_yearwise_all_over_india_details
+Content: This dataset provides year-wise and month-wise details of MGNREGA implementation across India, covering states and districts. It includes key metrics like approved labor budget, average wage per day, and employment days per household, alongside participation data for marginalized groups such as SC/ST persondays and differently abled workers. It tracks work progress with columns on ongoing works, completed works, and category B works, while capturing expenditures on wages, materials, and administration. Performance indicators like payments generated within 15 days and expenditure on agriculture and natural resource management offer insights into efficiency and focus areas. The dataset also covers participation metrics like active job cards, households completing 100 days, and women persondays, providing a comprehensive view of MGNREGA's impact. 
+
+blocks_ghats_kilns_mineral_wise
+Content: The data provides an overview of mineral resources and associated activities in Bihar. It categorizes minerals into "Minor Minerals" (e.g., sand, brick, stone) and "Major Minerals" (e.g., limestone, magnetite, bauxite). It lists district-specific mineral occurrences, the number of operational blocks, ghats, and kilns. For instance, sand mining involves 162 ghats, while brick production has 6,500 kilns. Major minerals like glauconite and magnetite have designated blocks for exploration.
+
+brick_kilns_district_wise
+Content: The data provides district-wise variation on the number of brick kilns in Bihar . It lists  district names with their respective brick kiln counts, reflecting the distribution of brick production across the state.The data highlights regional differences in brick manufacturing activity.
+
+raids_fir_arrests_year_wise
+Content: The data summarizes statewide mining enforcement statistics in Bihar for the years 2021-22 to 2023-24. It tracks the number of raids, FIRs filed, arrests made, and revenue collected (in crores). Enforcement activity peaked in 2022-23 with 22,962 raids, 4,437 FIRs, and ₹299 crore collected. However, 2023-24 saw a decrease in arrests (1,450) and revenue (₹211.82 crore) compared to the previous year. The data shows year-on-year variations in enforcement intensity and financial outcomes.
+
+raids_fir_arrests_district_wise
+Content: The data provides district-level variation of Bihar's mining enforcement activities during the year 2024-25. It includes the number of raids, FIRs filed, arrests made, and the total revenue collected (in lakh rupees). Bhojpur recorded the highest revenue collection of ₹1444.6 lakhs, followed by Saran with ₹1158.43 lakhs. Significant enforcement actions, such as 471 FIRs and 469 arrests, were observed in Saran. The data highlights district-wise variations in enforcement intensity and financial outcomes.
+
+revenue_year_wise
+Content: The data summarizes revenue collections for Bihar's Mining and Geology Department across various sources during 2022-23 and 2023-24. Sand mining contributed the highest revenue under minor minerals, generating ₹1384.47 crores in 2022-23 and ₹1558.16 crores in 2023-24. Other notable sources include penalties, departmental collections, and revenue from materials like stone, brick, and soil. Revenue from major minerals was comparatively low, with ₹7.59 crores in 2022-23 and ₹8.31 crores in 2023-24. The data highlights the dominance of sand and departmental collections in Bihar's mining revenue streams.
+
+sand_ghats_district_wise
+Content: The data provides information on the number of sand ghats across various districts in Bihar under the focus area of Mining and Geology. Bhojpur has the highest number of sand ghats with 28, followed by Gaya with 27 and Jamui with 24. Several districts, including Bhagalpur, Darbhanga, Jehanabad, Kaimur, Madhubani, Saharsa, and Sheohar, have only 1 sand ghat each. This distribution highlights significant variation in sand mining activity across the state.
+
+stone_kilns_district_wise
+Content: The data provides information on the number of stone kilns in two districts of Bihar under the focus area of Mining and Geology. Sheikhpura has 7 stone kilns, while Gaya has only 1, indicating a higher concentration of stone kiln activity in Sheikhpura.
+
+total_revenue_vs_target_year_wise
+Content:: The data outlines the revenue performance of Bihar's Mining and Geology department from 2019-20 to 2023-24. The revenue targets ranged from ₹1,600 crores in 2019-20 to ₹3,300 crores in 2023-24. While the department exceeded its targets in 2019-20 (101.02%) and 2020-21 (106.81%), the achievement percentages declined in subsequent years, with 77.80% in 2021-22 and improving to 92.24% in 2023-24. Despite challenges, revenue collection consistently increased over the years, reaching ₹3,043.88 crores in 2023-24.
+
+poultry_farming_animal_husbandry_year_wise_district_wise
+Content: This dataset focuses on poultry farming and animal husbandry across Bihar for the year 2024-25, covering all districts. It includes information on layer poultry farming capacities (5,000 and 10,000 layers) with distinctions between farms with and without feed mills. The data highlights the distribution and infrastructure supporting poultry farming, offering insights into regional agricultural practices and resource allocation in Bihar.  
+
+tourists_place_wise_type_wise_year_wise_month_wise
+Content: The data showcases tourist visit trends in various districts of Bihar for different months across different years from 2015 to 2024. It includes both domestic and foreign tourist counts for locations such as Banka, Bhagalpur, Bodhgaya, Gaya, Munger, and Muzaffarpur. Significant fluctuations are observed, particularly with a sharp decline in tourism during 2021, likely due to the COVID-19 pandemic, followed by recovery in subsequent years. Popular destinations like Bodhgaya and Gaya see high tourist numbers, with foreign visitors contributing significantly pre-pandemic. The data highlights the impact of external factors and regional preferences on tourism trends.
+
+allotment_of_grains_district_wise_year_wise
+Content:  The dataset provides a comprehensive overview of the district-wise monthly allotment of grains in Bihar from 2020 to 2025, categorized under key focus areas. It details the allocation of wheat and rice, including fortified rice, under two primary schemes: Antyodaya Anna Yojana (AAY) and Priority Household (PHH). For each district and year, the dataset specifies the quantity of wheat, rice, and fortified rice distributed, both separately for AAY and PHH households and in total. The columns include critical information such as the month, focus area, year, and district name, along with calculated totals for each type of grain to provide a holistic view of the distribution patterns. This dataset is a vital resource for analyzing the grain distribution trends and evaluating the implementation and impact of food security initiatives in Bihar.
+
+number_of_ration_cards_and_members_district_wise
+Content: This dataset provides detailed information on the distribution of ration cards across Bihar's districts for the year 2024-25, categorized into rural and urban areas. It includes the count of Priority Household (PHH) Cards and their corresponding members, as well as Antyodaya Anna Yojana (AAY) Cards and their associated members. The dataset also aggregates the total number of ration cards and total members, offering a comprehensive view of the beneficiaries under the public distribution system. The inclusion of rural and urban breakdowns allows for a comparative analysis of food security coverage in different regions of Bihar, making it a valuable resource for policymakers and stakeholders aiming to ensure equitable distribution of resources across the state.  
+
+mid_day_meal_distribution_district_wise_year_wise
+Content: The dataset provides a comprehensive, year-wise, and district-wise overview of the Mid-Day Meal program in Bihar from 2020 to 2025. It tracks key metrics across three stages—Allotment, Release Order, and Dispatch—for both schools and agencies involved in the program. Metrics include the total number of schools and agencies, quantities of rice, fortified rice, and wheat allocated, approved, and dispatched (in kilograms) to ensure efficient resource distribution. Covering all districts, the data highlights the program's scale, focusing on the allocation of food resources and monitoring their delivery to ensure the successful implementation of the scheme across Bihar.  
+
+ganja_bhang_seized_arrests_made_district_wise_year_wise
+Content: The data provides statistics on prohibitions and excise enforcement in Bihar from 2016 to 2024. It includes district-wise details about reported cases, arrests made, and quantities of contraband substances (like ganja, charas, afeem, heroin, bhaang, and cough syrup) seized in kilograms. The information highlights enforcement activities related to drug prohibition across various districts, reflecting variations in the number of incidents and the quantities seized during the two years.
+
+khatian_land_registration_details
+Content: The data represents the annual number of khatian plot registrations under the Registrations Department in Bihar across multiple financial years (2008-09 to 2023-24). It shows fluctuations, with a peak of 179,384 registrations in 2013-14 and lower numbers in subsequent years. Overall, the trend indicates significant variation in registration activity over time.
+
+registrar_office_details
+Content: The data shows the distribution of offices under the Registrations Department in Bihar by type. There are 43 District Registrar offices and 7 Sub-Registrar offices, totalling 50 offices.
+
+land_deed_registration_data
+Content: The data presents the annual number of land deed registrations in Bihar under the Registrations Department from 2007 to 2024. Registrations were minimal until 2015, followed by a significant surge in 2016, reaching 101,675. The trend shows a steady increase in recent years, with the highest count in 2022 (121,549), followed by slight declines in 2023 (120,067) and 2024 (106,122). Overall, the data highlights a major shift in registration activity after 2015.
+
+agriculture_equipment_subsidy_bihar
+Content: The dataset provides an overview of government subsidies on agricultural equipment in Bihar, categorized by equipment type and beneficiary group. It highlights varying subsidy rates for general farmers and those belonging to SC/ST/OBC categories. For general beneficiaries, subsidy rates range from 40% to 75%, with maximum amounts between ₹10,000 and ₹2,25,000, depending on the equipment. For SC/ST/OBC beneficiaries, subsidies are slightly higher, ranging from 50% to 80%, with maximum amounts extending up to ₹2,50,000. Equipment such as chisel cutters, self-propelled reapers, happy seeders, and straw balers are included, reflecting a focus on modernizing and supporting agricultural practices through financial assistance.
+
+seed_production_bihar_yearwise
+Content: The dataset contains year-wise data on annual seed production in Bihar for the years 2018–19 to 2021–22. It includes details such as annual targets (in metric tonnes), stored seeds, distributed seeds, certified seeds, and seeds meeting the Manak standard.
+
+bihar_climate_resilient_agriculture_data
+Content: The dataset contains year-wise and crop-season-wise data on Bihar's climate-resilient agricultural initiatives from 2019–20 to 2023–24. It includes details on the number of targeted districts, targeted production (in tons), achieved production (in tons), and achievement percentages for Rabi, Kharif, and Summer seasons.
+
+diesel_subsidy_district_wise_data_bihar
+Content: The dataset contains district-wise data for the Diesel Subsidy program in Bihar for the year 2022–23. It includes the total number of applications received, applications approved by the AC and DAO, applications sent to banks, and the total subsidy amount disbursed by banks (in rupees).
+
+agricultural_administration_buildings_district_wise
+Content: The dataset contains district-wise information on agricultural administration buildings in Bihar. It includes data on the total number of panchayats, government-owned buildings, and rented buildings in each district.
+
+seed_analysis_report_year_wise
+Content: The dataset provides year-wise data on seed analysis in Bihar, detailing the targeted, collected, and analyzed samples. It also includes the number of samples meeting the standard and those deemed non-standard.
+
+seed_distribution_year_wise
+Content: The dataset provides year-wise data on seed distribution achievements in Bihar for the period 2018-2021, showing the target and actual achievement in metric tonnes for various crops including wheat, paddy, maize, pulses, oilseeds, and others.
+
+fertilizer_consumption_year_wise
+Content: The dataset provides annual fertilizer consumption data in Bihar, detailing the quantity of different types of fertilizers (urea, DAP, NPK, MOP, SSP, ammonium sulphate) used from 2018 to 2023. It also includes the NPK ratio and fertilizer consumption per hectare in kilograms.
+
+soil_testing_year_wise
+Content: The dataset contains soil testing data for Bihar from 2018 to 2021, detailing the number of soil samples collected, tested, and the soil health cards distributed each year.
+
+milk_particulars_year_wise
+Content: The provided dataset outlines annual statistics for Bihar's dairy sector under the Bihar State Milk Co-operative Federation Ltd. It includes metrics such as the number of Dairy Cooperative Societies (DCS) organized, membership in lakhs, milk procurement and marketing in lakh kgs/litres per day, retailers, and whole-day milk booths. The data spans from 2020-21 to 2024-25, showing consistent growth in key indicators like milk procurement, marketing, and organizational expansion.
+
+production_import_npk_fertilizer_year_wise
+Content: The dataset presents the production and import trends of fertilizers (NPK) under the focus area of optimizing fertilizer usage for soil health management. It includes annual data from 1981-82 to 2021-22, showing production values (e.g., 185.53 lakh tonnes in 2021-22) and import figures (e.g., 97.7 lakh tonnes in 2021-22). This information highlights efforts to balance domestic production and imports of fertilizers over time.
+
+milk_price_and_composition
+Content: The data outlines milk pricing and composition under the Bihar State Milk Co-operative Federation Ltd. Cow milk is priced at ₹37.12 per kg, with 4% fat and 8.5% SNF (Solids-Not-Fat), while buffalo milk is priced at ₹45.6 per kg, with 6% fat and 9% SNF. It highlights differences in quality and cost based on milk type.
+
+types_of_milk_resource
+Content: The dataset provides an overview of milk resource infrastructure under the Bihar State Milk Co-operative Federation Ltd. It includes details such as the number of milk unions (8), dairy plants (20), artificial insemination centres (5,658), and cattle feed plants (4) in Bihar. These figures highlight the state's robust dairy development initiatives.
+
+industries_application_department_wise
+Content: The dataset provides detailed insights into the status of various licenses and permissions required for industrial and business operations in Bihar, each identified by specific service IDs. It includes applications related to factory construction, labor registration, building approvals, land conversion, utility installations, and essential infrastructure permissions. These licenses span several regulatory acts and sectors, covering activities such as factory setup, contract labor registration, building plan approvals, and utility connections like water supply and road cutting. For each type of license, the dataset tracks the number of applications submitted, approved, rejected, or still in progress, while also capturing processing time metrics (average, median, minimum, and maximum). This information helps assess departmental efficiency, identify bottlenecks, and support initiatives to streamline the approval processes, thereby enhancing the ease of doing business in the state.
+
+certificate_financial_accounting_trainees_district_wise
+Content: The dataset contains information about trainees enrolled in the Bihar State-Certificate in Financial Accounting (BS-CFA) Course. It captures essential details such as the names and contact information of candidates, along with the locations of skill development centers where they received training. The dataset highlights the geographic distribution of trainees and training facilities across various districts and blocks in Bihar.
+
+call_center_based_raids_arrests_district_wise_year_wise
+Content: The data provides a district-wise summary of call centre complaints and its resulting raids and arrests performed by Bihar's Prohibition and Excise department from 2018 to 2024. It includes figures for total complaints filed, number of raids conducted, and arrests made in each district during the specified years. For example, Gaya had the highest activity in 2018 with 1,159 complaints, 190 raids, and 147 arrests, while Bettiah and Patna West also saw significant enforcement actions.
+
+checkpost_arrests_seized_liquor_seized_vehicles_district_wise
+Content: The data summarizes enforcement activities performed by the Prohibition and Excise department at various checkposts across various districts in Bihar from 2016 to 2024. It includes the total registered cases, arrests, liquor seized (in litres), and vehicles seized at each checkpost. This dataset highlights the scale of enforcement efforts at strategic locations in the state.
+
+drone_arrests_and_seizures_district_wise_year_wise
+Content: The data provides a detailed account of drone-based enforcement activities performed by Prohibition and Excise department across various districts of Bihar from 2022 to 2024. It includes metrics such as total raids conducted, cases registered, arrests made, and illegal liquor seized (country-made and foreign-made). Additionally, it highlights the seizure of vehicles and items like jaggery solutions in kilograms. For example, Patna recorded the highest liquor seizure in 2022 with 137,244 litres, while Saran seized 69,696 litres. The enforcement efforts vary significantly across districts in terms of raids and seizures.
+
+motorboat_based_arrests_seized_liquor_district_wise_year_wise
+Content: The data provides figures related to motorboat based raids performed by Prohibitions and Excise department in Bihar across various districts from 2022 to 2024. It includes the number of raids conducted, total registered cases, arrests made, and the quantity of illegal alcohol seized, including country-made, foreign-made, and Java Mahua liquor. Some districts report no activities, while others show significant seizures and arrests. For example, in 2022, Patna saw a high number of raids and liquor seizures, while districts like Araria and Aurangabad reported no activities.
+
+vehicles_auctioned_district_wise
+Content: The data provides details on the number of vehicles auctioned and the revenue generated from those auctions in various districts of Bihar from 2016 to 2024. Some districts like Gopalganj, Patna, and Madhubani have generated significant revenue, with Gopalganj leading at ₹335,340,846. In contrast, districts like Jehanabad and Sheikhpura have lower revenues. The number of auctioned vehicles varies significantly across districts, with Gopalganj having the highest number at 6,199 vehicles. This data highlights the regional differences in the scope and revenue from vehicle auctions in Bihar.
+
+consolidated_raids_report_excise_and_police_year_wise
+Content: The data presents the consolidated report of raids performed by Excise and Police departments in Bihar from 2016 to 2024, focusing on cases registered, liquor seizures, arrests, and vehicle confiscations. It shows the amount of country-made and foreign liquor seized, with total liquor seizures varying each year. The number of arrests and seized vehicles also fluctuates, with police making the majority of arrests and seizures. Notably, in 2024, the Excise department seized the highest total liquor quantity, while the police conducted the most raids. The destruction of liquor is consistently high across the years, particularly in 2020 and 2021.
+
+department_of_it_skill_development_trainees_district_wise
+Content: This dataset provides district-wise trainee statistics trained by IT Department from Bihar's State Data Centres. It includes details such as the number of state data centres, enrolled candidates, dropout candidates, training undergoing candidates, candidates attended assessments,candidates absent in assessments,failed and passed canditades, certified candidates, and candidates reported placements,The data highlights the performance and outcomes of training programs by IT department across districts, offering insights into enrollment, certification, and placement trends.
+
+department_of_it_skill_development_trainees_year_wise
+Content: This dataset provides year-wise statistics on training batches by IT Department from 2017-18 to 2023-24. It includes the number of batches, enrolled and trained candidates, and those undergoing training. Additionally, it outlines the number of candidates assessed, certified, and placed. The data reflects annual trends in training and placement outcomes.
+
+bihar_archaeological_sites_district_location_year_wise
+Content: The dataset contains information about archaeological sites and historic monuments in Bihar. It provides essential details such as the focus area, site names, their locations, and descriptions.
+
+bihar_district_wise_shooting_locations
+Content: This dataset contains information about shooting locations across various districts in Bihar, it includes the information of columns focus area, districts, year,state_name, district_name and shooting_location which specific locations suitable for films making and photography.
+
+bihar_hall_art_gallery_reservation_details
+Content: The dataset provides reservation details for art galleries and halls in Bihar. It includes essential information such as state name ,district name ,location of the hall or art gallery, description, capacities, deposit amounts in rupees, and daily reservation fees in rupees.
+
+bihar_museums_data_with_ownership_and_highlights
+Content: The dataset contains information about museums in Bihar,including their museum name, district name, locations, established years,ownership, and key highlights of their exhibits.
+
+hierarchy_division_designation_officers
+Content: The dataset provides details about the hierarchical structure of officers across various divisions in Bihar. It includes officer names, designations, and divisions.
+
+commercial_taxes_department_collection_state_wise_year_wise
+Content: The dataset from the Commercial Taxes Department provides state-wise GST collections for the years 2017-18 to 2024-25. It includes revenue from Central GST, State GST, Integrated GST, CESS, and the total tax revenue (in crores). Each record details the contributions of states and union territories, offering insights into their respective GST contributions for monitoring and analysis.
+
+commercial_taxes_department_refund_state_wise_year_wise
+Content: This dataset provides a state-wise breakdown of tax refunds processed by the Commercial Taxes Department. It includes detailed information on the components of tax revenue, such as Central GST, State GST, Integrated GST, and Cess. The data spans financial years from 2020-21 to 2024-25 and captures total tax revenue for each state alongside the refunds issued. This allows for an analysis of tax revenue distribution and refund trends across Indian states and union territories.
+
+commercial_taxes_igst_settlement_state_yearwise
+Content: This dataset provides state-wise data on the settlement of Integrated GST (IGST) for the years 2017-18 to 2024-25. It includes details on regular settlements and ad hoc settlements processed by the Commercial Taxes Department. The total settlement amounts are calculated for each state and union territory, enabling a comprehensive analysis of IGST distribution and settlements across India during the specified period.
+
+gramin_tola_sampark_nischay_yojana_targets_and_achievements
+Content: This scheme emphasizes connecting smaller, rural settlements with all-weather roads. The data includes metrics such as the target number of projects, planned road lengths, and the extent of roads completed. However, progress for the year has been minimal, with most targets remaining unmet.
+
+mukhya_mantri_gram_sampark_yojana_targets_and_achievements
+Content: The MMGSY dataset focuses on improving connectivity by linking larger habitations to road networks. It outlines completed, ongoing, and planned projects along with their corresponding road lengths. Partial achievements reflect a mix of completed and in-progress work, with some areas showing measurable progress.
+
+pradhan_mantri_gram_sadak_yojana_i_targets_and_achievements
+Content: PMGSY-I focuses on approved and ongoing road projects aimed at connecting rural settlements. The data includes approved targets, ongoing work, and achieved road lengths. Progress remains slow, with minimal new road construction completed so far.
+
+pradhan_mantri_gram_sadak_yojana_ii_targets_and_achievements
+Content: PMGSY-II tracks the status of previously approved road projects. It highlights ongoing work and completed road lengths, showing steady progress in some areas while others remain focused on completing pending projects.
+
+pradhan_mantri_gram_sadak_yojana_iii_targets_and_achievements
+Content: This dataset tracks both new and ongoing road construction projects under PMGSY-III. It includes the target number of projects, planned road lengths, and achieved road construction. So far, progress is limited, with most projects still in the implementation phase.
+
+road_construction_overview_year_wise_road_category_type_wise
+Content:  This dataset provides an overview of road construction in Bihar for the year 2024-25. It includes data categorized by road types such as Single Lane, Intermediate Lane, Double Lane, and others. The dataset highlights the length (in kilometers) and percentage share of National Highways, State Highways, and Major District Roads for each category. It also mentions missing links and greenfield projects.
+
+national_highways_number_wise
+Content: This dataset provides detailed information on the national highways in Bihar for the year 2024-25. It includes the highway number and the corresponding length in kilometers for each national highway. This data is crucial for planning and monitoring road infrastructure development in Bihar.
+
+road_category_with_their_lengths_year_wise
+Content: This dataset provides information about the different categories of roads in Bihar, along with their lengths in kilometers for the years 2015-16 to 2024-25. The categories include Single Lane, Intermediate Lane, Double Lane, More than 7.00m width, 4 Lane/6 Lane-8 Lane, and Missing Link/Green Field. This data is essential for understanding the distribution and development of road infrastructure in Bihar over time.
+
+road_construction_projects_road_names_wise_project_cost_wise
+Content: This dataset provides information on various road construction projects in Bihar, including their names, lengths in kilometers, project costs in crore rupees, and the current status of work. The projects range from completed works to ongoing and upcoming projects. This data is valuable for tracking the progress and financial investment in road infrastructure in Bihar.
+
+construction_of_bridges_year_wise
+Content: This dataset provides details on bridge construction projects in Bihar over the years, including the number of bridges constructed, turnover, income, administrative expenses, and profits (both gross and net). It tracks financial performance and project outcomes in the bridge construction sector in Bihar from 2012-13 to 2023-24.
+
+road_projects_bharatmala_pariyojana_year_wise
+Content: This dataset details various road projects under the Bharatmala Pariyojana in Bihar. It provides information on awarded cost, road length, and current construction status of different packages for each project, spanning multiple years. The construction status includes "Under construction," "Work Awarded," "Work Completed," and other stages of progress.
+
+road_construction_schemes_year_wise
+Content: This dataset provides details of various road construction schemes in Bihar for the year 2023-24. It includes information on the amount spent, cumulative expenditure, and the type of scheme (state, centrally sponsored, Nischay, EAP, or RIDF).
+
+highways_major_district_roads_year_wise_district_wise
+Content: The data presents the road network distribution across various districts in Bihar for the year 2000-01, detailing the lengths of National Highways, State Highways, and Major District Roads. The dataset highlights regional variations in road infrastructure across the state.
+
+district_wise_engineering_and_polytechinc_colleges_seat
+Content: The dataset provides a district-wise breakdown of seat capacity in engineering and polytechnic colleges across Bihar. It includes details on available seats for various disciplines and institutions in each district, reflecting the regional educational infrastructure.
+
+engineering_polytechnic_faculty_strength_post_wise_branch_wise
+Content: This dataset provides an overview of faculty strength in engineering and polytechnic institutions across Bihar. It categorizes data by faculty posts, academic branches, and institution types, offering insights into the academic workforce distribution.
+
+indira_gandhi_national_disability_pension_progress_report
+Content: The table provides an overview of the progress of the Indira Gandhi National Disability Pension scheme. It includes data on the total number of applications received across districts in Bihar and categorizes pending cases based on different verification stages. It also highlights approved and rejected applications and pending error corrections.
+
+indira_gandhi_national_old_age_pension_progress_report
+Content: This table reports on the implementation of the Indira Gandhi National Old Age Pension scheme. It includes information on total applications received, pending applications across stages like DEO verification, panchayat verification, and provisional verification, as well as pending applications requiring error corrections. Approved and rejected applications are also detailed.
+
+sector_wise_start_up_bihar
+Content: This dataset provides a comprehensive overview of start-up activities in Bihar, categorized by sector. It includes the name of each sector (sector_name) along with the number of start-ups approved by the Start-up Monitoring and Implementation Committee (SMIC) (smic_approved). Additionally, it highlights the financial support provided through the first and second rounds of seed funding (first_seed_funding and second_seed_funding), offering insights into the funding distribution across different sectors.
+
+district_wise_start_up_bihar
+Content: This dataset captures the distribution of start-ups across districts in Bihar, focusing on their approval and funding status. It features the name of each district (district_name) and the count of SMIC-approved start-ups (smic_approved). The dataset also details the funding provided to these start-ups in the first and second seed funding phases (first_seed_funding and second_seed_funding), showcasing the geographic spread of financial support and entrepreneurial growth in the state.
+
+handpumps_in_bihar_year_wise_district_wise_division_wise
+Content: This dataset provides details of handpumps across districts in Bihar for the year 2024-25. It includes information on geotagged handpumps, repaired handpumps, and the types of handpumps such as India Mark, special, and ordinary handpumps.
+
+abhiyan_basera_beneficiary_year_wise_district_wise_category_wise
+Content: This dataset contains the "Abhiyan Basera Beneficiary" program for various districts of Bihar in 2024-25. It details the number of beneficiaries categorized by caste groups, including Backward Class, Scheduled Tribe, Scheduled Caste, and Extremely Backward Caste. The data highlights variations in beneficiary distribution across these categories, providing insights into the program's reach and inclusivity.
+
+farmers_under_vegfed_scheme_block_wise_category_wise
+Content: This dataset provides detailed information about the VEGFED Scheme in Bihar for the year 2024-25, focusing on the number of farmers registered under the scheme. The data is categorized by districts, blocks, and social categories, including Scheduled Caste (SC), Scheduled Tribe (ST), Backward Class (BC), and Extremely Backward Caste (EBC). This dataset highlights the outreach and inclusivity of the VEGFED Scheme in promoting vegetable farming across Bihar.
+
+business_overview_of_vegfed_district_wise_year_wise
+Content: This dataset provides an overview of the VEGFED initiative in Bihar, detailing vegetable sales (in metric tons) and revenue generation (in rupees) across districts for the years 2021-22 to 2024-25. It highlights the economic impact of VEGFED on agricultural development and district-wise performance.
+
+wetlands_in_bihar_district_wise_year_wise
+Content: This dataset provides an overview of wetlands in Bihar for the year 2024-25, covering various wetlands across different districts. It includes details such as the wetland name, district, geographical coordinates (latitude and longitude), and the total area in hectares. The wetlands listed span various sizes and locations, reflecting the diversity of wetland ecosystems in Bihar.
+
+art_culture_youth_department_bihar_organization_structure
+Content: This dataset provides a detailed overview of the organizational structure of the Art, Culture, and Youth Department in Bihar for the year 2024-25. It includes information on various designations, departments, personnel, roles, and their respective descriptions. This information allows for an understanding of the department's hierarchy, responsibilities, and key personnel involved in its functioning.
+
+art_culture_youth_department_events_timeline_year_wise
+Content:This dataset provides a historical timeline of events related to the Art, Culture, and Youth Department in Bihar. It includes details on the month and year of each event, along with a brief description. This information allows for an understanding of the department's evolution and key milestones over time.
+
+bihar_archaeology_and_museums_related_schemes_year_wise_budget
+Content: This dataset highlights various schemes related to archaeology and museums in Bihar. It includes details about scheme names, focus areas, and budget allocations for the financial years 2023-24 and 2024-25.
+
+bihar_monuments_district_wise_year_wise_details
+Content: This dataset provides district-wise details of monuments in Bihar, including their names, locations, and associated historical significance.
+
+year_wise_bihar_sports_culture_archaeology_schemes_details
+Content: This dataset contains details about various schemes related to sports, culture, and archaeology in Bihar. It includes scheme names, descriptions, and objectives for the financial year 2024-25.
+
+sugarcane_incentive_program_yearwise
+Content: This dataset contains year-wise data from 2020 to 2024 for the sugarcane incentive program in Bihar. It includes information on the type of programs and specific program names under the sugarcane incentive initiative. The data tracks physical and financial goals set for each year, along with their respective achievements. Units for measurements, material achievements, and financial accomplishments in lakh rupees are also recorded.
+
+roads_under_rwd_district_wise_block_wise_year_wise
+Content:  This dataset provides an overview of road infrastructure under the Rural Works Department (RWD) in Bihar, covering the years 2001-02 to 2024-25. It details roads across various districts and blocks, including road names, lengths in kilometers, schemes (e.g., MMGSY, PMGSY), work statuses (completed, ongoing, for billing), and the respective years. The dataset focuses on improving rural connectivity through projects in divisions such as Ara, with roads under schemes like MMGSY[SC], PMGSY-IIl, MR, and State Plan[NABARD].
+
+Bhagalpur_smartcity_projectwise_progress_report
+Content: The table provides details of the Bhagalpur Smart City projects in Bihar for the year 2024-25, covering various focus areas like infrastructure, public spaces, and sustainability. It highlights project costs, financial and physical progress percentages, and target completion dates. Most projects, such as the Integrated Command and Control Centre, Smart Roads, and Town Hall, are completed with 100% progress. A few, like the Beautification of Barari Ghat and Rejuvenation of Bhairva Talab, are still in progress, with target completion set for March 2025.
+
+Patna_smartcity_projectwise_progress_report
+Content: The table provides an overview of various projects under the Patna Smart City initiative for 2024-25. It includes details such as project costs, progress percentages, agencies involved, and work status. Projects like the Intelligent Storm Water Drainage System and Riverfront Development are underway, with progress varying between 6% and 90%. Key works include the redevelopment of the railway station area, crematorium development, and Mauryalok rejuvenation. The data highlights ongoing construction, installations, and updates on civil and mechanical components.
+
+patna_smartcity_agencywise_summary_report
+Content: The table summarizes the status of various projects under the Patna Smart City initiative for 2024-25, distributed across multiple executing agencies. A total of 17 projects are being handled by PSCL, of which 12 are completed and 5 are ongoing, with a total cost of ₹524.77 crore. Other agencies like BRPNNL, BSBCCL, and BUIDCO are executing significant projects, with most still in progress. The initiatives span infrastructure, civic amenities, and sustainable development, with total costs varying by agency.
+
+Muzaffarpur_smartcity_projectwise_progress_report
+Content: The table provides an overview of various projects undertaken in Muzaffarpur under the Smart City initiative for 2024-25. Key projects include the beautification of Sikandarpur Lake, development of sewerage and stormwater drainage, and station road redevelopment, among others. Several projects, such as the Integrated Terminal Bus Stand and the Multipurpose Sports Stadium, are ongoing, while many others, like park redevelopment and the construction of the Command Control Centre, have been completed. The total costs and financial progress are detailed for each project, with completion timelines extending to 2025 for ongoing works.
+
+Biharsharif_smartcity_projectwise_progress_report
+Content: The dataset highlights the updated project details of Biharsharif under the Smart City Mission for 2024-25. It includes infrastructure development, road construction, flyovers, school renovations, and sewerage systems. Key ongoing projects include the construction of a flyover at Bharaopar and sewerage network development, while several smaller projects, such as park renovations, solar installations, and e-library construction, have been completed. Physical and financial progress percentages are provided, along with project timelines and remarks about the status.
+
+Temporary_shelters_during_winter_season
+Content: The dataset provides details of temporary shelters in various urban local bodies (ULBs) of Bihar for 2024-25. A total of 40 shelters with varying capacities have been established across cities like Patna, Dehri, and Danapur, providing accommodation for 883 beds. Patna has the highest number of shelters (11) and beds (270), followed by Dehri with 3 shelters and 60 beds. These shelters cater to the temporary housing needs of the population, emphasizing support for vulnerable communities.
+
+Weather_shelters_under_day_nulm_scheme
+Content: The dataset provides detailed information about functional shelters under the DAY-NULM scheme in Bihar for the year 2024-25. It includes data on shelter types (New, Refurbished, O&M), addresses, capacity, and focus areas, primarily targeting weather shelters. The shelters are located across multiple districts like Patna, Bhagalpur, and Darbhanga, with capacities ranging from 10 to 100 people. These shelters aim to provide safe spaces for the urban homeless, focusing on accessibility and basic amenities.
+
+
+indira_gandhi_national_widow_pension_progress_report
+Content: The table outlines the progress of the Indira Gandhi National Widow Pension scheme. It records data on the number of applications received, pending verifications at different stages, and pending applications requiring error corrections. The number of approved and rejected applications is also presented.
+
+bihar_state_disability_pension_progress_report
+Content: This table tracks the progress of the Bihar State Disability Pension scheme across multiple districts in Bihar. It records the total applications received and pending at various stages, including DEO (Data Entry Operator) verification, panchayat verification, and provisional verification. The table also includes information about error corrections, newly pending applications, approved applications, and rejections.
+
+industrial_investment_sector_wise_year_wise
+Content: This dataset provides insights into industrial investments in Bihar across various sectors from 2018-19 to 2024-25. It includes details such as focus areas, sector names, capital invested (in lakh rupees), and corresponding years. Key sectors covered are food processing, healthcare, IT, renewable energy, manufacturing, and tourism, reflecting Bihar's growing industrial landscape and investment trends.
+
+industrial_employment_sector_wise_year_wise
+Content:  This dataset provides information on industrial employment generated in Bihar across various sectors from 2017-18 to 2024-25. It includes details on focus areas, sector names, the number of persons employed, and corresponding years, showcasing employment trends in key sectors such as food processing, healthcare, IT, renewable energy, tourism, and textile industries.
+
+nali_gali_report_district_wise_year_wise
+Content: This dataset provides detailed district-wise and year-wise information on the implementation of the Nali-Gali scheme, which aims to develop paved drains and streets in urban areas of Bihar. The data encompasses urban local body names, district names, and comprehensive metrics such as the total number of urban wards, wards covered by central government or other authorities, and wards targeted under the scheme. It highlights the number of households in each urban area, the households targeted for paved drain and street development, and the progress of implementation in terms of wards with tenders issued, wards where work has started, and wards fully covered with paved drains and streets. Additionally, the dataset details the total plans for paved drains and streets, the number of plans where work has started, completed plans, and those in progress or in the tendering process. It also tracks the number of households benefiting from completed paved drain and street projects, offering a comprehensive overview of infrastructure development under the scheme.
+
+public_health_housing_details_district_wise_year_wise
+Content: This dataset provides comprehensive district-wise and year-wise details on housing and public health-related schemes under the Urban Development and Housing Department in Bihar for the year 2024-25. It includes data on the total number of rural wards combined into urban local bodies, total urban wards post-formation, total number of houses, and metrics related to schemes operated by both the Panchayati Raj Department and the Public Health Engineering Department. The dataset specifies the total, functional, and non-functional schemes operated by each department and tracks the number of houses covered under these schemes. The data highlights the progress and effectiveness of these schemes in urban areas across Bihar, offering insights into the state of public health infrastructure and housing development.
+
+mukhyamantri_peyjal_nishchay_yojana_year_wise
+Content: This dataset provides detailed year-wise information on the Mukhyamantri Shahri Peyjal Nishchay Yojana, a flagship scheme in Bihar under the Urban Development and Housing Department. The scheme aims to ensure the supply of pure drinking water to all urban households. Key aspects covered include the scheme's objectives, population coverage projections, past achievements, planned projects, infrastructure components, funding structure, implementation responsibilities, quality control mechanisms, and timelines. The dataset highlights initiatives such as the construction of overhead water tanks, direct pumping systems, pipeline development, and specific project targets, including those under AMRUT and Asian Development Bank initiatives. It also outlines the financial and operational framework, with monitoring responsibilities assigned to Urban Local Bodies and district and state quality monitors.
+
+mukhyamantri_shahar_gali_nali_pakikaran_yojana_year_wise
+Content: This dataset provides detailed year-wise information on the Mukhyamantri Shahar Gali-Nali Pakikaran Nischay Yojana, a scheme initiated by the Urban Development and Housing Department in Bihar for the year 2024-25. The scheme focuses on ensuring paved streets and functional drainage systems for every household in urban areas. It includes data on the population coverage as per 2011 and projections for 2020, roads targeted for paving, roads requiring maintenance, and key focus areas such as waterlogging-prone and unpaved streets. The dataset outlines strategies like GIS-based street mapping and prioritization of unpaved roads. It also includes details on quality control mechanisms (District Quality Monitors, State Quality Monitors, and third-party inspections), budget allocations, funding structure, and implementation responsibilities assigned to Urban Local Bodies. The project is planned to be executed through a phased implementation approach.
+
+multi_storied_housing_schemes_year_wise
+Content: This dataset provides year-wise details of the Multi-Storied Housing Scheme initiated by the Urban Development and Housing Department in Bihar for the year 2024-25. The scheme aims to construct multi-storied housing for urban poor families. The first phase focuses on providing housing for 750 families in the Patna Municipal Corporation area using land belonging to the Bihar State Housing Board. The scheme has been approved through a Public-Private Partnership (PPP) model by the Cabinet Committee. The implementation plan includes expanding the scheme to all districts of Bihar using government or housing board land after the successful execution of the first phase.
+
+urban_development_schemes_and_financial_details_year_wise
+Content: This dataset provides year-wise details of various urban development schemes and their associated financial data under the Urban Development and Housing Department in Bihar for the year 2024-25. It includes key information on schemes like the Old Age Care Center Scheme, which aims to provide facilities in 37 urban bodies (excluding Patna) with 50 beds per center, focusing on furniture, human resources, building selection, and food management managed by NGOs. Additionally, the Urban Civic Amenities Scheme details plans for community centers, streetlight implementation with revised specifications, bus stand construction in urban bodies with adequate land, and park development in eligible urban bodies. The financial data section highlights the base cost, revised cost, required amount, and additional amount allocated in lakhs for these schemes, with a minimum of 50 urban bodies targeted for community center construction and other urban infrastructure developments, This table also provide details of how much total fund is allocated to old age care center .
+
+urban_water_supply_guidelines
+Content: This dataset outlines the directives and guidelines for the operation, maintenance, and supervision of water supply projects in urban areas of Bihar under the Urban Development and Housing Department for the year 2024-25. The dataset covers the scope and applicability of these directives, including their relevance to schemes such as AMRUT, the Chief Minister's Urban Drinking Water Scheme, ADB-financed projects, and local initiatives by BUIDCo. It provides detailed maintenance guidelines for motor pumps, pipelines, valves, and water tanks, along with preventive maintenance mandates to ensure uninterrupted water supply. Responsibilities are allocated among contractors, health departments, urban bodies, and the UD Department. The dataset also includes provisions for a centralized grievance redressal mechanism, payment structures, reporting protocols, and water quality checks. Specific rules for major repairs, such as pipe replacements and pump installations, are highlighted. It establishes complaint resolution timelines for minor (3-5 days) and major issues (12-24 days), while granting the UD Department authority to amend the guidelines as required.
+
+municipal_corporation_buildings_district_wise_year_wise
+Content: This dataset provides comprehensive details about urban development and housing projects in Bihar for the year 2024-25. It includes information on municipal corporations and nagar parishads, district names, contact persons, ownership type, building area specifications, room and facility descriptions, manpower utilization, and project status (e.g., tender submitted, completed, pending, or not initiated).
+
+quality_of_roads_year_wise_road_type_wise
+Content: This dataset contains information about the quality and condition of roads in Bihar for the year 2024-25. It includes details such as focus area, state name, year, road name, road type, total road length in kilometers, wing name, circle name, division name, and the lengths of roads in different conditions (good, fair, average, and bad). Additionally, it provides details on single-lane, intermediate-lane, two-lane roads, and roads with widths exceeding seven feet.
+
+polytechnic_college_students_district_branch_year_wise
+Content: The data provides details regarding admissions in Government Polytechnic institutes in Bihar from the year 2022-23 to 2024-25. It includes details about various branches of engineering across multiple districts, such as Begusarai, Bhagalpur, Saran, Darbhanga, Gaya, Gopalganj, and Muzaffarpur. The columns represent the state name, focus area, institute name, district name, branch name, and admissions via regular and lateral entry. Admissions vary across branches like Civil Engineering, Computer Science, Mechanical Engineering, etc., reflecting the intake through both entry modes.
+
+villages_tested_for_water_quality_district_wise_block_wise
+Content: This dataset aims to monitor and evaluate the progress of water quality testing across Bihar's villages  for the period 2022-2025. The figures represent the number and percentage of villages tested for water quality segregated by districts and blocks. The data highlights the extent of chemical and bacteriological testing before and after monsoon seasons, offering insights into seasonal and geographical testing patterns. This information is critical for planning and improving water quality management efforts in Bihar.
+
+school_aanganwadi_household_water_quality_testing_yearwise
+Content: The dataset provides a comprehensive overview of water quality testing in Bihar across various districts for the years 2022-23 to 2024-25. It includes data on schools, Anganwadi centers, and households registered for chemical and bacteriological water testing, along with the number tested and percentages achieved. It highlights villages where water samples were tested from one, two, or three or more households and those not tested. This dataset reflects the progress and gaps in water quality assessment efforts, offering insights into regional variations and areas requiring enhanced focus for safe drinking water initiatives.
+
+educational_schemes_under_udise_year_wise
+Content: This dataset contains UDISE data for Bihar, covering various educational schemes from 2020-21 to 2023-24. It includes information on beneficiary counts, transferred amounts, successful beneficiaries, refunded amounts, and details of specific schemes like Kishori Swasthya, Mid Day Meal, Mukhayamantri Poshak Yojna, Cycle Yojna, scholarships, and textbook payments, reflecting the impact and financial distribution across different student categories and years.
+
+electricity_board_financial_performance_transaction_year_wise
+Content: The dataset tracks the financial performance of electricity boards over different years. It includes data on various focus areas related to the electricity sector, the state where the data is relevant, the type of transaction (such as revenue, expenditure, etc.), specific particulars (describing the financial item), and the associated values for each year. This dataset is crucial for understanding the financial health of electricity boards and the dynamics of financial transactions in the energy sector.
+
+growth_of_electricity_consumers_year_wise
+Content: The dataset provides insights into the increase in the number of electricity consumers over a specified time period. It captures data on the growth of consumers in different states, highlighting the number of consumers in lakhs (hundreds of thousands) for each year. The dataset focuses on tracking the expansion of electricity usage across regions, which is crucial for understanding demand patterns and planning for infrastructure development
+
+growth_in_per_capita_electricity_year_wise
+Content: The dataset tracks the per capita electricity consumption across different states over the years. It records the per capita consumption in units (such as kilowatt-hours, kWh) for each year, helping to measure the change in electricity usage on an individual level. This dataset is vital for understanding trends in energy consumption, economic development, and the overall efficiency of electricity distribution and usage in various regions.
+
+aggregate_technical_commercial_loss_year_wise
+Content: The dataset tracks the percentage of electricity loss due to both technical factors (such as inefficiencies in transmission and distribution) and commercial factors (such as theft or non-payment) across different states over the years. The dataset provides insights into the effectiveness of electricity distribution systems and the challenges faced in reducing losses, which are critical for improving the efficiency and financial sustainability of the electricity sector.
+
+bihar_electricity_board_operational_performance_year_wise
+Content: The dataset tracks the operational performance of the Bihar Electricity Board. It includes data on various operational aspects, such as power generation, distribution efficiency, or infrastructure performance, under different particulars for each year. The dataset helps in evaluating the operational efficiency and the effectiveness of service delivery in the state's electricity sector.
+
+
+department_of_it_skill_development_trainees_sector_job_role_wise
+Content: The data outlines the training and assessment outcomes of candidates enrolled in various IT-ITES and Electronics sector job roles under the Department of IT in Bihar. It includes metrics such as enrollment, dropouts, training completion, assessment participation, and certification. Job roles like Domestic Data Entry Operator and CRM Domestic Non-Voice have the highest enrollment numbers, while roles like Web Developer have fewer candidates. The data highlights the flow from enrollment to certification, showcasing dropout rates, assessment absences, and pass/fail statistics.
+
+MMUY_BLUY_beneficiaries_year_wise
+Content: The dataset contains information on the number of beneficiaries under the  Bihar Laghu Udyami Yojna(BLUY) and Mukhya Mantri Udyami Yojna(MMUY) schemes in Bihar across different years, ranging from 2018 to 2029. It includes the focus_area, which is "Beneficiaries Under BLUY MMUY SCHEME," the state_name as Bihar, and the year for each data entry. The scheme_name is labeled as either "BLUY" or "MMUY," and the dataset records the number of beneficiaries (number_of_beneficiaries) for each year. The data shows varying beneficiary counts, with the highest recorded in 2024 (60,000 for BLUY and 7,731 for MMUY) and the lowest in 2029 (1,011 for MMUY). The dataset is useful for analyzing trends in the number of beneficiaries over time and understanding the impact of the BLUY MMUY scheme in Bihar.
+
+MMUY_BLUY_beneficiaries_project_wise
+Content: This dataset provides information on the number of beneficiaries under two specific schemes in Bihar: the Bihar Laghu Udyami Yojna(BLUY) and Mukhya Mantri Udyami Yojna(MMUY) schemes. It includes the focus_area, which identifies the specific focus of each scheme, the state_name indicating that the data pertains to Bihar, and the project_name that specifies the project under each scheme. The scheme_name field distinguishes between the MMUY and BLUY schemes, while the number_of_beneficiaries tracks the beneficiaries for each scheme. The dataset helps assess the reach and effectiveness of these two welfare schemes, providing valuable insights into how many people have benefited from them in different years. This data can be useful for evaluating the success of the MMUY and BLUY initiatives and their impact on the population of Bihar.
+
+MMUY_BLUY_beneficiaries_district_wise
+Content: This dataset contains information on the number of beneficiaries under the Bihar Laghu Udyami Yojna(BLUY) and Mukhya Mantri Udyami Yojna(MMUY) schemes, broken down by district in Bihar. It includes the focus_area, which identifies the specific objective or target group of each scheme, the state_name indicating that the data pertains to Bihar, and the district_name specifying the district where the beneficiaries are located. The scheme_name field distinguishes between the MMUY and BLUY schemes, and the dataset tracks the number_of_beneficiaries for each scheme within each district. This dataset is crucial for understanding how the MMUY and BLUY schemes are distributed across various districts in Bihar, offering insights into the geographical impact and reach of these welfare initiatives.
+
+MMUY_BLUY_beneficiaries_category_wise
+Content: This dataset provides information on the number of beneficiaries under the Bihar Laghu Udyami Yojna(BLUY) and Mukhya Mantri Udyami Yojna(MMUY) schemes, categorized by different beneficiary categories in Bihar. It includes the focus_area, which specifies the target group or objective of each scheme, the state_name indicating that the data pertains to Bihar, and the category_name that identifies the specific category under which the beneficiaries fall. The scheme_name distinguishes between the MMUY and BLUY schemes, and the dataset tracks the number_of_beneficiaries within each category for the respective schemes. This dataset is essential for understanding how beneficiaries are distributed across various categories within these schemes, helping to analyze the targeted impact and reach of the MMUY and BLUY
+
+civil_seva_protsahan_yojana_scst
+Content:The data represents the number of beneficiaries of scheme - civil seva protsahan yojana from various Scheduled Castes (SC) and Scheduled Tribes (ST) across different districts of Bihar . It contains details like caste type, caste names, gender distribution, and the corresponding number of beneficiaries. District name, Year for which the beneficiary data is recorded.The data includes both male and female beneficiaries.
+
+jamabandi_land_record_circle_wise
+Content: The dataset contains details of Jamabandi land records from Bihar, specifically for the district wise data and various circles, halkas, and maujas. It includes information such as owner names, converted land area (measured in acres and decimals), and the corresponding tax amount. The data covers multiple land locations. Each record lists a landowner along with their respective landholding and tax obligations, with some entries showing zero land area or tax amount.  
+
+census_2011_population_state_wise_by_mother_tongue
+Content: This dataset provides a detailed breakdown of India's linguistic diversity based on the 2011 Census. It categorizes the population state-wise by mother tongue and further divides it into rural and urban populations, along with gender (male/female).
+
+census_2011_villages_towns_population_area_state_wise
+Content: The dataset presents Census 2011 data for multiple states, covering various districts and sub-districts in both rural and urban areas. It includes details such as the number of inhabited and uninhabited villages, towns, households, male and female populations, total area in square kilometers, and population density. Each state's settlement pattern varies, with some having more rural villages while others have higher urban populations. This data is crucial for analyzing regional demographics, urbanization trends, and resource distribution across different states.  
+
+census_2011_villages_towns_population_above_below_five_thousand
+Content: This dataset provides detailed information about the number of villages with populations of 5,000 or more, and towns with populations below 5,000, across various districts and sub-districts in various states. It includes data on the population of these villages and towns, the percentage of rural and urban populations, and the number of villages or towns in each category. Some areas, like Mendhar in Punch district, have a high percentage of rural population, while others like Kathua's Billawar sub-district, show a significant urban presence. The information helps to understand the urbanization trends and rural-urban distribution within the state. 
+
+census_2011_villages_wise_population_size_and_class
+Content: This dataset provides detailed data on villages classified by population size. It includes information on the number of villages in various population brackets, from those with fewer than 200 people to those with more than 10,000 people. The data also provides gender-wise population statistics for each category, reflecting the demographic structure in different sub-districts.  
+
+census_2011_industrial_category_main_workers_age_wise_details
+Content: This dataset offers detailed information about workers in rural areas, segmented by age group, gender, and industrial category. It includes data on males and females working in various sectors such as agriculture, forestry, mining, construction, manufacturing, and services, providing insights into the workforce distribution across different age groups for a specific district.
+
+census_2011_industrial_category_marginal_workers_age_wise
+Content: This dataset provides information on marginal workers(mgw) in rural areas, classified by age group, gender, and industrial category. It includes data on males and females working in sectors like agriculture, forestry, mining, construction, and services, highlighting their participation in work for varying durations.
+
+census_2011_industrial_category_main_workers_educational_wise
+Content: This dataset provides detailed information on the occupational distribution of workers in various states for the year 2011. It categorizes workers based on their gender, educational level (illiterate or literate), and the type of work they are engaged in, such as agriculture, construction, and various industries. The data differentiates between rural and urban areas, offering insights into labor force participation across different districts, which allows for a comparison of workforce trends and gender dynamics.
+
+census_india_2011_workforce_statewise
+Content: The dataset contains employment and workforce distribution data from the Census of India 2011, categorized by state, district, and area type (urban/rural). It includes total population, workforce participation, and employment status segmented by gender. The data classifies individuals as main workers, marginal workers (including those seeking work), and non-working persons (including those seeking work), offering insights into labor force participation and employment trends across India.
+
+census_india_2011_marital_status_state_wise
+Content: This dataset provides marital status demographics from the Census of India, categorized by state, district, and area type. It includes age-group-wise total population, gender-wise distribution, and marital status details such as never married, married, widowed, separated, and divorced individuals. Additionally, it records unspecified marital status cases, helping to analyze marriage trends, gender disparities, and social patterns at a granular level.
+
+census_india_2011_employment_statewise_industry_wise
+Content: This dataset provides employment statistics from the Census of India, categorized by state, district, and industry classification. It captures the total number of main and marginal workers, further broken down by gender and rural-urban divisions. The data helps in analyzing employment distribution, workforce participation by gender, and urban-rural employment disparities across different industries.
+
+census_india_2011_occupation_classification_statewise
+Content: This dataset provides occupational classification and workforce distribution from the Census of India. It categorizes main workers based on the National Classification of Occupations (NCO) and further breaks them down by gender, employment type (employers, employees, single workers, and workers with families), and area type (rural/urban). The data is crucial for understanding employment trends, gender disparity in occupations, and workforce segmentation across India.
+
+census_2011_religion_wise_population
+Content: The data is based on the 2011 Census of India for different religious communities in rural and urban areas of different states segregated by governing bodies like municipal corporation, municipal board, town panchayat, district, sub-district etc. It details population figures, literacy rates, and workforce participation across Hindus, Muslims, Christians, Sikhs, Buddhists, Jains, and other religions. Urban areas like Srinagar have a significantly higher population, with Muslims forming the majority. Literacy rates vary among communities, with males generally having higher literacy than females. Employment data shows more male workforce participation compared to females.
+
+census_2011_literacy_district_wise_age_wise
+Content: The 2011 Census of India provides a comprehensive demographic breakdown of the country's population at the state and district levels, categorized by rural and urban areas. The dataset includes details on total population, gender-wise distribution of males and females, and further classifies individuals based on age groups. A key highlight of the data is the distinction between literate and illiterate populations, with specific figures for male and female literacy rates across different regions. This allows for a deeper understanding of educational disparities between genders and between urban and rural areas 
+
+labour_resources_learner_details_year_district_gender_wise
+Content: The dataset contains detailed records of learners enrolled in various skill development programs under the Labour Resources Department, specifically focusing on the Bihar Skill Development Mission. It captures data over multiple years from 2016 till 2025, categorizing information based on districts and blocks, providing insights into the regional distribution of these programs. The dataset includes details about each learner, such as their name, gender, and social category, which helps in understanding the participation of different demographic groups. Additionally, it records information about the training centers, including their names and unique center codes, allowing for the identification of institutions involved in these initiatives. The dataset also specifies the schemes under which learners are enrolled, such as the "Kushal Yuva Program" and "Self Help Allowance," along with the respective courses they undertake. This structured information offers a comprehensive view of the reach and impact of skill development programs in Bihar, helping in the analysis of trends related to education, employment readiness, and social inclusion.
+
+consumption_npk_fertilizer_year_wise
+Content: The table presents the year-wise consumption of NPK fertilizers in Bihar from 2018-19 to 2022-23. The data shows a fluctuating trend, with consumption dropping from 312.1 metric tons in 2018-19 to 260.8 metric tons in 2019-20, followed by a steady increase in subsequent years. The highest consumption was recorded in 2022-23, reaching 406.63 metric tons. This suggests growing agricultural activity or increased fertilizer adoption in Bihar over the period.
+
+auctioned_or_seized_vehicle_or_land
+Content: The data represents how Bihar’s Prohibitions and Excise department auctioned over 72,000 vehicles, while around 15,000 were released upon payment of penalties. The time period of this activity is between 2016 and 2024. Alongside vehicle seizures, 8,208 premises or lands were confiscated, though only 15 went to auction, with 530 released on penalty.
+
+arrests_seized_liquor_seized_vehicles_district_wise_year_wise
+Content: The dataset represents activities of the Prohibitions and Excise department in Bihar between 2016 and 2024. It tracks district-wise enforcement, including the number of raids, cases registered, people arrested, and quantities of illegal liquor seized (both country-made and foreign-made). Additionally, it shows the number of vehicles confiscated or seized, categorized by type — two-wheelers, three-wheelers, four-wheelers, and trucks. The data highlights significant variations in enforcement intensity and seizure quantities across different districts.
+
+departmental_budget_requests_year_wise
+Content: The data represents requisitions made by the Building Construction Department in Bihar between 2019 and 2023. It includes information on allocated budgets for various departments such as Maintenance and Repair of Engineering/Technical Colleges, Rural Development, Land Revenue, Law, and Youth Affairs & Culture. The Building Construction Department is involved in constructing buildings for various departments in Bihar. The largest allocations are seen in 2019 for engineering college repairs and land revenue projects. In 2021, the budgets are smaller and spread across diverse departments, including General Administration, Home, and Cooperative Departments. The data has columns having requisition IDs, allocated budgets, requisition year, requisition month and requisition day of the month.
+
+building_construction_measurement_book_records_year_wise
+Content: The dataset represents book keeping records on construction project expenditures under Bihar’s Building Construction Department between 2008 and 2024, capturing amounts recorded in measurement books on various dates. The Building Construction Department is involved in constructing buildings for various departments in Bihar. The projects are identified by the project work ID and span different months, with expenditures ranging from a few lakhs to crores. The largest recorded amount was 210.22 crores (PRJ2016355) and lowest was 0 for several projects. Some project IDs appear multiple times, indicating repeated or phased entries.
+
+building_project_funding_records_departmentwise
+Content: The dataset contains details of various construction projects undertaken by the Building Construction Department of Bihar for multiple departments such as Law Department, Youth, Art & Culture Department, Minority Welfare Department, and SC/ST Welfare Department etc. The Building Construction Department is involved in constructing buildings for various departments in Bihar. It includes information on project descriptions, approved and allocated budgets, requested funds, payment status, and record review status. The projects primarily focus on infrastructure development, including court buildings, sports complexes, hostels, and residential schools and record timeline is mentiond in month name and day.
+
+
+course_certificate_details
+Content: This dataset captures certificate details of the trainees who took training in courses conducted at Bihar Institute of Public Administration and Rural Development (BIPARD). It includes columns such as Course Name,focus area as 'BIPARD Course wise Certificate details', Group Name, Course Start Date, Course End Date, Trainee Name, Designation and Location, and Certificate Number.
+
+faculty_attendees_course_wise_details
+Content: This dataset captures details of various faculty who have conducted courses at Bihar Institute of Public Administration and Rural Development (BIPARD). This dataset allows for an in-depth analysis of course effectiveness, faculty involvement, and the distribution of training efforts across different topics and durations.
+
+faculty_feedback_course_wise_details
+Content: This dataset captures feedback on faculty performance for courses conducted at Bihar Institute of Public Administration and Rural Development (BIPARD). It includes columns such as Course Name, Course Start Date, Course End Date, Group Name, Faculty Name, Subject Name, Session Handled, and various rating metrics like Subject Knowledge, Communication, Methodology, Interaction, Question Handling, and Overall Ratings.
+
+trainee_course_wise_completion_details
+Content: This dataset contains details of trainees who have completed courses at Bihar Institute of Public Administration and Rural Development (BIPARD),including induction programs for government officials. Key columns include Course Name, Course Start Date, and Course End Date which identify each training program and its schedule, enabling temporal analysis of course durations, completion rates, and frequencies, Trainee Name indicates the person who attended the course, Group Name, Place of Posting, and District Detail participant groups and their postings, supporting geographical analysis of workforce distribution and regional representation and Designation, Course Duration Days.
+
+children_details_year_wise_district_wise_aangan_mandey
+Content: This dataset covers Anganwadi centers across all districts of Bihar from 2017-18 to 2024-25. It includes details on the number of registered children (typically 40 per center) and the number of children present, varying by location.
+
+engineering_college_students_district_branch_year_wise
+Content: The dataset provides insights into engineering education in Bihar under the Department of Science, Technology, and Technical Education for the academic years 2021-24. It includes details of government engineering colleges across various districts, highlighting different disciplines such as Civil Engineering, Mechanical Engineering, Electrical Engineering, Electronics & Communication Engineering, and more. 
+
+fisheries_water_bodies_district_wise_year_wise
+Content: This dataset from the Directorate of Fisheries, Bihar for the year 2024-25 details government and private-owned water bodies, including Sarkari Jalkar, Fish Hatcheries, Fish Seed Farms, and Fish Farms across districts, focusing on fisheries infrastructure and development.
+
+water_quality_testing_drinking_water_sources_wise_district_wise
+Content: District-wise data on water quality testing of drinking water sources across Bihar, covering various administrative blocks for the period 2022-25. This dataset provides insights into the number of water samples tested, contamination levels, and safety compliance based on different parameters. It includes information such as the total number of samples collected, tested, and found to be safe or contaminated. Additionally, it highlights contamination types, their percentage occurrences, and regional variations in water quality.
+
+water_quality_lab_testing_district_wise_block_wise
+Content: District-wise and block-wise water quality testing data for drinking water sources in Bihar for the period 2021-23. This dataset records the number of water samples tested in various villages and settlements, along with their contamination status. It includes details such as the total number of samples collected, tested, and identified as safe or contaminated. The dataset further categorizes contamination levels and the affected areas, helping to assess regional disparities in water quality.
+
+irrigation_scheme_block_wise_district_wise_year_wise
+Content: This dataset provides detailed information about irrigation schemes implemented across different blocks and districts in Bihar over multiple years. It includes data on various types of irrigation projects, such as pond schemes and Ahar Pyne schemes, categorized by district and block. The dataset tracks the status of these schemes, such as whether they are completed or still in progress, and includes year-wise data to show the timeline of each project’s execution. It serves as a comprehensive record of the irrigation initiatives aimed at improving water availability for agricultural purposes in Bihar.
+
+
+post_matric_scheme_student_benefecries_district_wise
+Content: This dataset provides detailed year-wise data on land utilization and infrastructure development in various districts and blocks of Bihar for the year 2022-24. It includes information on urban wards, households, paved drains, and streets development under government schemes. The dataset tracks the number of households, areas targeted for development, and progress of work such as the issuance of tenders, initiation of work, and completed projects. It highlights urban areas benefiting from infrastructure projects like paved drains and streets, providing a comprehensive overview of land utilization and urban development efforts in Bihar.
+
+Horticulture_area_production_yearwise
+Content: This dataset provides a district-wise overview of horticulture area and production across India for the years 2018-2022. It includes details such as the district name (district_name), crop type (crop_type), crop name (crop_name), year (year), crop area value (crop_area_value) and its unit (crop_area_value_unit), and crop production value (crop_production_value) and its unit (crop_production_value_unit). This information allows for an analysis of horticulture trends and production patterns across different districts and crop types over the specified period.
