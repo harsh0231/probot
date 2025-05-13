@@ -422,47 +422,8 @@ def generate_sql_with_retrieved_schema(
                 f"Columns:\n{columns_desc}"
             )
     
-    # Limit the schema information to stay within token limits
-    max_schema_length = 8000  # Adjust based on your token limits
-    current_length = sum(len(info) for info in schema_info)
-    
-    while current_length > max_schema_length and len(schema_info) > 1:
-        # Remove the least relevant table (last in the list)
-        schema_info.pop()
-        current_length = sum(len(info) for info in schema_info)
-    
-    prompt = f"""
-You are an expert MySQL query writer specialized in statistical, analytical, and complex calculative queries for government data analysis. Generate precise SQL queries that handle:
-
-1. Multi-table joins with proper relationships
-2. Complex aggregations (SUM, COUNT, AVG, etc.)
-3. Comparative analysis between years/districts
-4. Trend analysis with proper grouping
-5. Percentage calculations and ratios
-6. Ranking queries (TOP N, HIGHEST/LOWEST)
-7. Conditional filtering for Bihar-specific data
-
-RELEVANT TABLES FOR THIS QUERY:
-{', '.join(relevant_tables)}
-
-TABLE SCHEMA INFORMATION:
-{"\n\n".join(schema_info) if schema_info else "No specific schema information available"}
-
-{column_info}
-
-PREVIOUS ERRORS (learn from these):
-{error_history}
-
-GUIDELINES:
-1. Always use the most specific table available for the query
-2. For Bihar-specific data, include 'state_name = "Bihar"' when relevant
-3. Return ONLY the pure SQL query, no explanations or commentary
-4. Handle NULL values with COALESCE(NULLIF(column, ''), '0') for numeric fields
-5. Include proper units in column aliases (e.g., 'total_liters', 'amount_in_rupees')
-6. For comparative queries, use CTEs (WITH clauses) when appropriate
-7. Always include relevant GROUP BY and ORDER BY clauses
-8. Use proper casting for numeric operations: CAST(COALESCE(NULLIF(column, ''), '0') AS DECIMAL(15,2))
-
+    # Create the examples as a separate string
+    examples = """
 EXAMPLE QUERIES:
 -- Simple district filter
 SELECT district_name, police_station 
@@ -490,7 +451,7 @@ SELECT * FROM district_stats ORDER BY total_cases DESC;
 SELECT 
   year,
   (SUM(CAST(COALESCE(NULLIF(achieved, ''), '0') AS DECIMAL(15,2))) / 
-  SUM(CAST(COALESCE(NULLIF(target, ''), '0') AS DECIMAL(15,2))) * 100 as achievement_percentage
+  SUM(CAST(COALESCE(NULLIF(target, ''), '0') AS DECIMAL(15,2)) * 100 as achievement_percentage
 FROM production_data
 GROUP BY year;
 
@@ -502,20 +463,46 @@ SELECT
 FROM Bihar_police_station p
 JOIN consolidated_raids c ON p.district_name = c.district_name
 WHERE p.district_name LIKE '%Patna%';
-
-Question: {user_input}
-Context: {context}
-Years to consider: {', '.join(years) if years else 'All available years'}
-
-Generate a VALID SQL query following these rules:
-1. Always use COALESCE/NULLIF for numeric fields
-2. Include proper units in column aliases
-3. Use explicit JOIN syntax for multi-table queries
-4. Apply Bihar-specific filters when appropriate
-5. Include relevant GROUP BY and ORDER BY clauses
-
-SQL:
 """
+    
+    # Build the prompt in parts
+    prompt_parts = [
+        "You are an expert MySQL query writer specialized in statistical, analytical, and complex calculative queries for government data analysis. Generate precise SQL queries that handle:\n\n"
+        "1. Multi-table joins with proper relationships\n"
+        "2. Complex aggregations (SUM, COUNT, AVG, etc.)\n"
+        "3. Comparative analysis between years/districts\n"
+        "4. Trend analysis with proper grouping\n"
+        "5. Percentage calculations and ratios\n"
+        "6. Ranking queries (TOP N, HIGHEST/LOWEST)\n"
+        "7. Conditional filtering for Bihar-specific data\n\n"
+        f"RELEVANT TABLES FOR THIS QUERY:\n{', '.join(relevant_tables)}\n\n"
+        f"TABLE SCHEMA INFORMATION:\n{'\\n\\n'.join(schema_info) if schema_info else 'No specific schema information available'}\n\n"
+        f"{column_info}\n\n"
+        f"PREVIOUS ERRORS (learn from these):\n{error_history}\n\n"
+        "GUIDELINES:\n"
+        "1. Always use the most specific table available for the query\n"
+        "2. For Bihar-specific data, include 'state_name = \"Bihar\"' when relevant\n"
+        "3. Return ONLY the pure SQL query, no explanations or commentary\n"
+        "4. Handle NULL values with COALESCE(NULLIF(column, ''), '0') for numeric fields\n"
+        "5. Include proper units in column aliases (e.g., 'total_liters', 'amount_in_rupees')\n"
+        "6. For comparative queries, use CTEs (WITH clauses) when appropriate\n"
+        "7. Always include relevant GROUP BY and ORDER BY clauses\n"
+        "8. Use proper casting for numeric operations: CAST(COALESCE(NULLIF(column, ''), '0') AS DECIMAL(15,2))\n\n",
+        examples,
+        f"\nQuestion: {user_input}\n",
+        f"Context: {context}\n",
+        f"Years to consider: {', '.join(years) if years else 'All available years'}\n\n",
+        "Generate a VALID SQL query following these rules:\n"
+        "1. Always use COALESCE/NULLIF for numeric fields\n"
+        "2. Include proper units in column aliases\n"
+        "3. Use explicit JOIN syntax for multi-table queries\n"
+        "4. Apply Bihar-specific filters when appropriate\n"
+        "5. Include relevant GROUP BY and ORDER BY clauses\n\n"
+        "SQL:"
+    ]
+    
+    prompt = "".join(prompt_parts)
+    
     try:
         response = openai_client.chat.completions.create(
             model=OPENAI_MODEL,
